@@ -1,0 +1,7765 @@
+[
+  {
+    "text": "Ross! Get a shot of this. (He's carrying an issue of the",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 0,
+    "utterance_id": 0
+  },
+  {
+    "text": "Oh, okay, I'm having another one!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 0,
+    "utterance_id": 1
+  },
+  {
+    "text": "This one doesn't hurt either\u00c2\u0097Ooh, yes it does!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 0,
+    "utterance_id": 2
+  },
+  {
+    "text": "Ow!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 0,
+    "utterance_id": 3
+  },
+  {
+    "text": "Ow!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 0,
+    "utterance_id": 4
+  },
+  {
+    "text": "Ow!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 0,
+    "utterance_id": 5
+  },
+  {
+    "text": "Ow!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 0,
+    "utterance_id": 6
+  },
+  {
+    "text": "Ooh!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 0,
+    "utterance_id": 7
+  },
+  {
+    "text": "Oh, I was kinda hoping that was it.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 0,
+    "utterance_id": 8
+  },
+  {
+    "text": "Hey, where are Monica and Rachel anyway?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 0,
+    "utterance_id": 9
+  },
+  {
+    "text": "Yeah, I love you. Okay, bye!  Hi!",
+    "label": 2,
+    "speaker": "Frank",
+    "dialogue_id": 0,
+    "utterance_id": 10
+  },
+  {
+    "text": "Hi!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 0,
+    "utterance_id": 11
+  },
+  {
+    "text": "That was Alice's mom, she said she left five hours ago. She should be here by now!",
+    "label": 0,
+    "speaker": "Frank",
+    "dialogue_id": 0,
+    "utterance_id": 12
+  },
+  {
+    "text": "Oh, honey, don\u00c2\u0092t worry. She's gonna make it on time.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 0,
+    "utterance_id": 13
+  },
+  {
+    "text": "Yeah.",
+    "label": 1,
+    "speaker": "Frank",
+    "dialogue_id": 0,
+    "utterance_id": 14
+  },
+  {
+    "text": "You guys! It was bananas, cream, and beef! I-I just cannot believe that you ate that so that I wouldn\u00c2\u0092t feel bad!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 1,
+    "utterance_id": 0
+  },
+  {
+    "text": "Well actually, I-I didn\u00c2\u0092t eat mine. It\u00c2\u0092s still in the bathroom.",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 1,
+    "utterance_id": 1
+  },
+  {
+    "text": "No it isn\u00c2\u0092t, I ate that.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 1,
+    "utterance_id": 2
+  },
+  {
+    "text": "Well we left ours in Monica\u00c2\u0092s bedroom.",
+    "label": 1,
+    "speaker": "Mrs. Geller",
+    "dialogue_id": 1,
+    "utterance_id": 3
+  },
+  {
+    "text": "Nope, got it and I got yours  too.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 1,
+    "utterance_id": 4
+  },
+  {
+    "text": "Hey honey! I missed you today!",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 2,
+    "utterance_id": 0
+  },
+  {
+    "text": "Oh, yeah?",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 2,
+    "utterance_id": 1
+  },
+  {
+    "text": "Yeah.  What d'you wanna do tonight?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 2,
+    "utterance_id": 2
+  },
+  {
+    "text": "Oh, well... Maybe we could...",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 2,
+    "utterance_id": 3
+  },
+  {
+    "text": "Ok, trying to turn me on by making a mess?",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 2,
+    "utterance_id": 4
+  },
+  {
+    "text": "Know your audience!",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 2,
+    "utterance_id": 5
+  },
+  {
+    "text": "Besides, tomorrow we're doing those fertility tests and until then you need    to keep your tadpoles in the tank.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 2,
+    "utterance_id": 6
+  },
+  {
+    "text": "We really need to take those tests?",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 2,
+    "utterance_id": 7
+  },
+  {
+    "text": "Honey, we've been trying to have a baby for over a year.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 2,
+    "utterance_id": 8
+  },
+  {
+    "text": "I think    it's a good idea to find out if everything's ok. Just a few routine tests.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 2,
+    "utterance_id": 9
+  },
+  {
+    "text": "But I don't wanna do it in a cup!",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 2,
+    "utterance_id": 10
+  },
+  {
+    "text": "Should we tell Rachel there\u00c2\u0092s an empty private room right next door to hers?",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 3,
+    "utterance_id": 0
+  },
+  {
+    "text": "We could, or we can have sex in it.",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 3,
+    "utterance_id": 1
+  },
+  {
+    "text": "Well let me think about that, while I remove my pants!",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 3,
+    "utterance_id": 2
+  },
+  {
+    "text": "Hey Toby!",
+    "label": 2,
+    "speaker": "Bob",
+    "dialogue_id": 4,
+    "utterance_id": 0
+  },
+  {
+    "text": "Hey Bobby.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 4,
+    "utterance_id": 1
+  },
+  {
+    "text": "It\u00c2\u0092s Bob actually. Hey, you work up here, can you tell me where this Chandler",
+    "label": 1,
+    "speaker": "Bob",
+    "dialogue_id": 4,
+    "utterance_id": 2
+  },
+  {
+    "text": "Uhh yeah. Yeah, it\u00c2\u0092s  right, right down there.  Right there, yeah. Can I ask you why?",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 4,
+    "utterance_id": 3
+  },
+  {
+    "text": "I want to talk to that bastard, see what his problem is.",
+    "label": 0,
+    "speaker": "Bob",
+    "dialogue_id": 4,
+    "utterance_id": 4
+  },
+  {
+    "text": "Okay Bob listen uhh, I\u00c2\u0092m the reason you didn\u00c2\u0092t get the job up here.",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 4,
+    "utterance_id": 5
+  },
+  {
+    "text": "Toby don\u00c2\u0092t.",
+    "label": 0,
+    "speaker": "Bob",
+    "dialogue_id": 4,
+    "utterance_id": 6
+  },
+  {
+    "text": "Bob!",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 4,
+    "utterance_id": 7
+  },
+  {
+    "text": "Toby! I\u00c2\u0092m not gonna let you cover for him. Anything you say right now will just get me more upset with Chandler!",
+    "label": 0,
+    "speaker": "Bob",
+    "dialogue_id": 4,
+    "utterance_id": 8
+  },
+  {
+    "text": "and then, we could\u00c2\u0092ve gone from the ceremony to the reception with you in the sidecar!",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 5,
+    "utterance_id": 0
+  },
+  {
+    "text": "Ross, it just wouldn\u00c2\u0092t have been feasible.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 5,
+    "utterance_id": 1
+  },
+  {
+    "text": "But having a dove place the ring on your finger would\u00c2\u0092ve been no problem?",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 5,
+    "utterance_id": 2
+  },
+  {
+    "text": "It was really fun being married to you tonight.",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 5,
+    "utterance_id": 3
+  },
+  {
+    "text": "Yeah! And! And, it was the easiest 400 bucks I\u00c2\u0092ve ever made.",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 5,
+    "utterance_id": 4
+  },
+  {
+    "text": "Okay Ross, can I uh, can I ask you something?",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 5,
+    "utterance_id": 5
+  },
+  {
+    "text": "Yeah.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 5,
+    "utterance_id": 6
+  },
+  {
+    "text": "That proposal, at the planetarium",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 5,
+    "utterance_id": 7
+  },
+  {
+    "text": "I know, I know it was stupid.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 5,
+    "utterance_id": 8
+  },
+  {
+    "text": "Are you kidding?!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 5,
+    "utterance_id": 9
+  },
+  {
+    "text": "With the, with the lilies, and-and the song, and the stars!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 5,
+    "utterance_id": 10
+  },
+  {
+    "text": "It was\u00c2\u0085really wonderful!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 5,
+    "utterance_id": 11
+  },
+  {
+    "text": "Did you just make that up?",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 5,
+    "utterance_id": 12
+  },
+  {
+    "text": "No, actually I thought about it when, when we were going out.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 5,
+    "utterance_id": 13
+  },
+  {
+    "text": "It\u00c2\u0092s how I imagined I uh, I would ask you to marry me.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 5,
+    "utterance_id": 14
+  },
+  {
+    "text": "Well, that would\u00c2\u0092ve been very hard to say no too.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 5,
+    "utterance_id": 15
+  },
+  {
+    "text": "It\u00c2\u0092s a good thing I didn\u00c2\u0092t do it, because it sounds like it would\u00c2\u0092ve been a very expensive wedding.  Okay, good night",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 5,
+    "utterance_id": 16
+  },
+  {
+    "text": "Goodnight",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 5,
+    "utterance_id": 17
+  },
+  {
+    "text": "Even if the sidecar had a windscreen so your hair wouldn\u00c2\u0092t get messed up?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 5,
+    "utterance_id": 18
+  },
+  {
+    "text": "I will think about it.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 5,
+    "utterance_id": 19
+  },
+  {
+    "text": "That\u00c2\u0092s all I\u00c2\u0092m askin\u00c2\u0092",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 5,
+    "utterance_id": 20
+  },
+  {
+    "text": "Ah! Ah! I forgot my jacket!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 6,
+    "utterance_id": 0
+  },
+  {
+    "text": "You tell them to wait!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 6,
+    "utterance_id": 1
+  },
+  {
+    "text": "Okay. Wait! Wait!",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 6,
+    "utterance_id": 2
+  },
+  {
+    "text": "Emily.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 6,
+    "utterance_id": 3
+  },
+  {
+    "text": "Oh no-no-no! Oh-no!  No! No! Emily!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 6,
+    "utterance_id": 4
+  },
+  {
+    "text": "How we doing, you guys ready?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 7,
+    "utterance_id": 0
+  },
+  {
+    "text": "Mom already called this morning to remind me not to wear my hair up. Did you know my ears are not my best feature?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 7,
+    "utterance_id": 1
+  },
+  {
+    "text": "Some days it's all I can think about.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 7,
+    "utterance_id": 2
+  },
+  {
+    "text": "Hi, sorry I'm late, I couldn't find my bearings.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 7,
+    "utterance_id": 3
+  },
+  {
+    "text": "Well, I went over to Kyle\u00c2\u0092s last night to pick up a few things and we got to reminiscing",
+    "label": 1,
+    "speaker": "Whitney",
+    "dialogue_id": 8,
+    "utterance_id": 0
+  },
+  {
+    "text": "we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there. So",
+    "label": 0,
+    "speaker": "Kyle",
+    "dialogue_id": 8,
+    "utterance_id": 1
+  },
+  {
+    "text": "Oh just say it Kyle!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 8,
+    "utterance_id": 2
+  },
+  {
+    "text": "We\u00c2\u0092re gonna give it another try.",
+    "label": 2,
+    "speaker": "Kyle",
+    "dialogue_id": 8,
+    "utterance_id": 3
+  },
+  {
+    "text": "What about her whining and her constant need for attention?!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 8,
+    "utterance_id": 4
+  },
+  {
+    "text": "I\u00c2\u0092m gonna work on that.",
+    "label": 1,
+    "speaker": "Whitney",
+    "dialogue_id": 8,
+    "utterance_id": 5
+  },
+  {
+    "text": "Oh right, because you\u00c2\u0092re so capable of change.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 8,
+    "utterance_id": 6
+  },
+  {
+    "text": "Y\u00c2\u0092know, he hums when he pees!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 8,
+    "utterance_id": 7
+  },
+  {
+    "text": "I do know.",
+    "label": 1,
+    "speaker": "Whitney",
+    "dialogue_id": 8,
+    "utterance_id": 8
+  },
+  {
+    "text": "It makes him miss the bowl, but whatever.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 8,
+    "utterance_id": 9
+  },
+  {
+    "text": "We\u00c2\u0092re so sorry.",
+    "label": 0,
+    "speaker": "Whitney",
+    "dialogue_id": 8,
+    "utterance_id": 10
+  },
+  {
+    "text": "That\u00c2\u0092s all right, we-we don\u00c2\u0092t need you. In fact, hey I\u00c2\u0092m over it already.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 8,
+    "utterance_id": 11
+  },
+  {
+    "text": "Yeah, and y\u00c2\u0092know what? I don\u00c2\u0092t give a tiny rat\u00c2\u0092s ass.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 8,
+    "utterance_id": 12
+  },
+  {
+    "text": "Yeah, we\u00c2\u0092re gonna go.",
+    "label": 1,
+    "speaker": "Kyle",
+    "dialogue_id": 8,
+    "utterance_id": 13
+  },
+  {
+    "text": "I\u00c2\u0092m sorry. Ugh, Pheebs, you were, you were right about her. Y\u00c2\u0092know, she",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 8,
+    "utterance_id": 14
+  },
+  {
+    "text": "Oh. Y\u00c2\u0092know, he hums while he does other stuff to.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 8,
+    "utterance_id": 15
+  },
+  {
+    "text": "Yeah, we're better off without them.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 8,
+    "utterance_id": 16
+  },
+  {
+    "text": "And y\u00c2\u0092know, even if they break up again, you\u00c2\u0092d better not let him in your sad men\u00c2\u0092s club!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 8,
+    "utterance_id": 17
+  },
+  {
+    "text": "Divorced men\u00c2\u0092s club.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 8,
+    "utterance_id": 18
+  },
+  {
+    "text": "Hey! What did you decide to do about the movie?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 9,
+    "utterance_id": 0
+  },
+  {
+    "text": "I don\u00c2\u0092t know!",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 9,
+    "utterance_id": 1
+  },
+  {
+    "text": "It\u00c2\u0092s not like it\u00c2\u0092s porn!",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 9,
+    "utterance_id": 2
+  },
+  {
+    "text": "This is a serious, legitimate movie.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 9,
+    "utterance_id": 3
+  },
+  {
+    "text": "And the nudity is really important to the story.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 9,
+    "utterance_id": 4
+  },
+  {
+    "text": "That\u00c2\u0092s what you say about porn.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 9,
+    "utterance_id": 5
+  },
+  {
+    "text": "You\u00c2\u0092re right. Maybe I shouldn\u00c2\u0092t even go on the call back.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 9,
+    "utterance_id": 6
+  },
+  {
+    "text": "No! No you should! A lot of major actors do nude scenes! I mean, the chance to star in a movie? Come on!",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 9,
+    "utterance_id": 7
+  },
+  {
+    "text": "Well that\u00c2\u0092s true.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 9,
+    "utterance_id": 8
+  },
+  {
+    "text": "And I am only naked in one scene.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 9,
+    "utterance_id": 9
+  },
+  {
+    "text": "Plus it sounds really great.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 9,
+    "utterance_id": 10
+  },
+  {
+    "text": "My character\u00c2\u0092s catholic and he falls in love with this Jewish girl.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 9,
+    "utterance_id": 11
+  },
+  {
+    "text": "Who run away together and they get caught in this big rainstorm.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 9,
+    "utterance_id": 12
+  },
+  {
+    "text": "So we go into this barn and undress each other and hold each other.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 9,
+    "utterance_id": 13
+  },
+  {
+    "text": "It\u00c2\u0092s really sweet and-and tender.",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 9,
+    "utterance_id": 14
+  },
+  {
+    "text": "I know. You're the guy who wouldn't chip in for the handyman.",
+    "label": 0,
+    "speaker": "The Hot Girl",
+    "dialogue_id": 10,
+    "utterance_id": 0
+  },
+  {
+    "text": "Nevermind!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 10,
+    "utterance_id": 1
+  },
+  {
+    "text": "No, I-I actually thought it was unfair the way everyone reacted. I mean you had just moved in.",
+    "label": 1,
+    "speaker": "The Hot Girl",
+    "dialogue_id": 10,
+    "utterance_id": 2
+  },
+  {
+    "text": "Jen.",
+    "label": 1,
+    "speaker": "The Hot Girl",
+    "dialogue_id": 10,
+    "utterance_id": 3
+  },
+  {
+    "text": "Jen, I know this may sound a little\u00c2\u0085 But uh, would you maybe wanna grab a cup of coffee sometime, or",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 10,
+    "utterance_id": 4
+  },
+  {
+    "text": "Sure! That would be nice.",
+    "label": 2,
+    "speaker": "Jen",
+    "dialogue_id": 10,
+    "utterance_id": 5
+  },
+  {
+    "text": "Umm?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 10,
+    "utterance_id": 6
+  },
+  {
+    "text": "Oh! My number is on there.  Give me a call.",
+    "label": 2,
+    "speaker": "Jen",
+    "dialogue_id": 10,
+    "utterance_id": 7
+  },
+  {
+    "text": "I will give you a call.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 10,
+    "utterance_id": 8
+  },
+  {
+    "text": "I'll see you later.",
+    "label": 1,
+    "speaker": "Jen",
+    "dialogue_id": 10,
+    "utterance_id": 9
+  },
+  {
+    "text": "Okay!",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 10,
+    "utterance_id": 10
+  },
+  {
+    "text": "I forgot my paper.",
+    "label": 1,
+    "speaker": "Jen",
+    "dialogue_id": 10,
+    "utterance_id": 11
+  },
+  {
+    "text": "God. I forgot how much I love driving. I have",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 11,
+    "utterance_id": 0
+  },
+  {
+    "text": "You don\u00c2\u0092t have a",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 11,
+    "utterance_id": 1
+  },
+  {
+    "text": "Oh Ross you\u00c2\u0092re so tense! You just gotta relax, okay? Just need to relax all right? Just need to relax",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 11,
+    "utterance_id": 2
+  },
+  {
+    "text": "What-what are you doing?! Are you\u00c2\u0097Okay that\u00c2\u0092s not funny! Just stop horsing around!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 11,
+    "utterance_id": 3
+  },
+  {
+    "text": "I am not horsing around, okay? I am Porsching around.",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 11,
+    "utterance_id": 4
+  },
+  {
+    "text": "Uh-oh.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 11,
+    "utterance_id": 5
+  },
+  {
+    "text": "Okay, stay calm. Nothing is going to happen to you, you are not in that much trouble.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 11,
+    "utterance_id": 6
+  },
+  {
+    "text": "Really? You think so?",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 11,
+    "utterance_id": 7
+  },
+  {
+    "text": "I was talking to myself! You\u00c2\u0092re going down!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 11,
+    "utterance_id": 8
+  },
+  {
+    "text": "Please. This is so your fault.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 12,
+    "utterance_id": 0
+  },
+  {
+    "text": "How, how is this my fault?",
+    "label": 0,
+    "speaker": "Susan",
+    "dialogue_id": 12,
+    "utterance_id": 1
+  },
+  {
+    "text": "Look, Carol never threw me out of a room before you came along.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 12,
+    "utterance_id": 2
+  },
+  {
+    "text": "Yeah? Well, there's a lot of things Carol never did before I came along.",
+    "label": 0,
+    "speaker": "Susan",
+    "dialogue_id": 12,
+    "utterance_id": 3
+  },
+  {
+    "text": "Hey, hey, ok, all right, that's it!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 12,
+    "utterance_id": 6
+  },
+  {
+    "text": "Get in here.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 12,
+    "utterance_id": 7
+  },
+  {
+    "text": "Come on.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 12,
+    "utterance_id": 8
+  },
+  {
+    "text": "My god, you guys, I don't believe you.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 12,
+    "utterance_id": 9
+  },
+  {
+    "text": "There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 12,
+    "utterance_id": 10
+  },
+  {
+    "text": "So just stop all the yelling, just stop it!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 12,
+    "utterance_id": 11
+  },
+  {
+    "text": "Yeah, Susan.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 12,
+    "utterance_id": 12
+  },
+  {
+    "text": "Don't make me do this again, I don't like my voice like this.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 12,
+    "utterance_id": 13
+  },
+  {
+    "text": "Ok, who wants to hear something ironic?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 12,
+    "utterance_id": 14
+  },
+  {
+    "text": "Really? In the moment, I really wanted to kiss you too. In the moment.",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 13,
+    "utterance_id": 0
+  },
+  {
+    "text": "In the moment, yeah.",
+    "label": 1,
+    "speaker": "Janine",
+    "dialogue_id": 13,
+    "utterance_id": 1
+  },
+  {
+    "text": "But only in the moment. So do ya wanna kiss again?",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 13,
+    "utterance_id": 2
+  },
+  {
+    "text": "Sure, New Year\u00c2\u0092s Eve is only two weeks away. Can you wait?",
+    "label": 1,
+    "speaker": "Janine",
+    "dialogue_id": 13,
+    "utterance_id": 3
+  },
+  {
+    "text": "No.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 13,
+    "utterance_id": 4
+  },
+  {
+    "text": "Me neither.",
+    "label": 1,
+    "speaker": "Janine",
+    "dialogue_id": 13,
+    "utterance_id": 5
+  },
+  {
+    "text": "3, 2,",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 13,
+    "utterance_id": 6
+  },
+  {
+    "text": "Joey, you don\u00c2\u0092t have to count down every time we kiss.",
+    "label": 2,
+    "speaker": "Janine",
+    "dialogue_id": 13,
+    "utterance_id": 7
+  },
+  {
+    "text": "Uh, yeah, okay. Except I sorta felt like I needed a couple of seconds to get ready.",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 13,
+    "utterance_id": 8
+  },
+  {
+    "text": "Oh, hi! How are you doing?",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 14,
+    "utterance_id": 0
+  },
+  {
+    "text": "I'm okay. I gotta go down to the police station and look at mug shots.",
+    "label": 0,
+    "speaker": "Tag",
+    "dialogue_id": 14,
+    "utterance_id": 1
+  },
+  {
+    "text": "Thanks for having me over, you guys.",
+    "label": 1,
+    "speaker": "Tag",
+    "dialogue_id": 14,
+    "utterance_id": 2
+  },
+  {
+    "text": "Tag?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 14,
+    "utterance_id": 3
+  },
+  {
+    "text": "Y-You're going?",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 14,
+    "utterance_id": 4
+  },
+  {
+    "text": "Uh we didn't, uh we didn't get the chance to talk.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 14,
+    "utterance_id": 5
+  },
+  {
+    "text": "Uh, so, where did you say you're from again?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 14,
+    "utterance_id": 6
+  },
+  {
+    "text": "Colorado.",
+    "label": 1,
+    "speaker": "Tag",
+    "dialogue_id": 14,
+    "utterance_id": 7
+  },
+  {
+    "text": "Ah, what good are you.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 14,
+    "utterance_id": 8
+  },
+  {
+    "text": "Look, um, I think we should talk about what happened on the terrace.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 14,
+    "utterance_id": 9
+  },
+  {
+    "text": "Okay.",
+    "label": 1,
+    "speaker": "Tag",
+    "dialogue_id": 14,
+    "utterance_id": 10
+  },
+  {
+    "text": "Ah, I-I never should have said what I said.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 14,
+    "utterance_id": 11
+  },
+  {
+    "text": "It\u00c2\u0097y\u00c2\u0092know what?",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 14,
+    "utterance_id": 12
+  },
+  {
+    "text": "It just doesn't matter how I feel.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 14,
+    "utterance_id": 13
+  },
+  {
+    "text": "I mean we work together, so nothing could really ever happen between us, and what I would love is just to go to work on Monday, and-and never talk about this again, okay?",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 14,
+    "utterance_id": 14
+  },
+  {
+    "text": "Um, I'm not.",
+    "label": 1,
+    "speaker": "Tag",
+    "dialogue_id": 14,
+    "utterance_id": 15
+  },
+  {
+    "text": "Oh, god, I knew it, that I freaked you out.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 14,
+    "utterance_id": 16
+  },
+  {
+    "text": "No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us.",
+    "label": 0,
+    "speaker": "Tag",
+    "dialogue_id": 14,
+    "utterance_id": 17
+  },
+  {
+    "text": "Really?",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 14,
+    "utterance_id": 18
+  },
+  {
+    "text": "Yeah, so, please don't fire me for doing this.",
+    "label": 0,
+    "speaker": "Tag",
+    "dialogue_id": 14,
+    "utterance_id": 19
+  },
+  {
+    "text": "Oh, did you catch him?!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 15,
+    "utterance_id": 0
+  },
+  {
+    "text": "Wh-what did he say?!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 15,
+    "utterance_id": 1
+  },
+  {
+    "text": "He said, \"Nice to meet you Glenda.\"  Well, obviously I couldn't give him my real name?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 15,
+    "utterance_id": 2
+  },
+  {
+    "text": "Why?! Why not?!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 15,
+    "utterance_id": 3
+  },
+  {
+    "text": "Come on, you saw the way he ran out of here!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 15,
+    "utterance_id": 4
+  },
+  {
+    "text": "He's gonna stick around and talk to the daughter he abandoned!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 15,
+    "utterance_id": 5
+  },
+  {
+    "text": "What did you say to him?",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 15,
+    "utterance_id": 6
+  },
+  {
+    "text": "Well, I said, I told him y'know, that I was the executor person of Francis' will and that I needed to talk to him so I'm gonna meet him at the coffee house later.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 15,
+    "utterance_id": 7
+  },
+  {
+    "text": "Okay. It\u00c2\u0092s Emma.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 16,
+    "utterance_id": 0
+  },
+  {
+    "text": "Ohh, okay, they gave you the old time pricing.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 17,
+    "utterance_id": 0
+  },
+  {
+    "text": "Yeah.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 17,
+    "utterance_id": 1
+  },
+  {
+    "text": "Well, what period is it from?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 17,
+    "utterance_id": 2
+  },
+  {
+    "text": "Uh, it\u00c2\u0092s from yore. Like the days of yore. Y\u00c2\u0092know?",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 17,
+    "utterance_id": 3
+  },
+  {
+    "text": "Yes, yes I do.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 17,
+    "utterance_id": 4
+  },
+  {
+    "text": "God, oh it\u00c2\u0092s just perfect!",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 17,
+    "utterance_id": 5
+  },
+  {
+    "text": "I bet it has a great story behind it too.",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 17,
+    "utterance_id": 6
+  },
+  {
+    "text": "Did they tell you anything?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 17,
+    "utterance_id": 7
+  },
+  {
+    "text": "Yes! That I know, this is from White Plains.",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 17,
+    "utterance_id": 8
+  },
+  {
+    "text": "White Plains. Oh, it sounds like such a magical place.",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 17,
+    "utterance_id": 9
+  },
+  {
+    "text": "All right, that's it, I quit.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 18,
+    "utterance_id": 0
+  },
+  {
+    "text": "What? I didn't say anything.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 18,
+    "utterance_id": 1
+  },
+  {
+    "text": "Yeah, but this  isn't the face of a person who trusts a person.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 18,
+    "utterance_id": 2
+  },
+  {
+    "text": "Ok, this  is the face of a person who, you know, doesn't trust a person.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 18,
+    "utterance_id": 3
+  },
+  {
+    "text": "I'm sorry. I'm sorry, Phoebe. It's just a little shorter than what we had discussed.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 18,
+    "utterance_id": 4
+  },
+  {
+    "text": "Would you relax? I know what I am doing. This is how he wears it.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 18,
+    "utterance_id": 5
+  },
+  {
+    "text": "Oh, hi Max! Hey, do you know everybody?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 19,
+    "utterance_id": 0
+  },
+  {
+    "text": "No. Have you seen David?",
+    "label": 1,
+    "speaker": "Max",
+    "dialogue_id": 19,
+    "utterance_id": 1
+  },
+  {
+    "text": "No, no, he hasn't been around.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 19,
+    "utterance_id": 2
+  },
+  {
+    "text": "Well, if you see him, tell him to pack his bags. We are going to Minsk.",
+    "label": 1,
+    "speaker": "Max",
+    "dialogue_id": 19,
+    "utterance_id": 3
+  },
+  {
+    "text": "Minsk?",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 19,
+    "utterance_id": 4
+  },
+  {
+    "text": "Minsk. It's in Russia.",
+    "label": 1,
+    "speaker": "Max",
+    "dialogue_id": 19,
+    "utterance_id": 5
+  },
+  {
+    "text": "I know where Minsk is.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 19,
+    "utterance_id": 6
+  },
+  {
+    "text": "We got the grant. Three years, all expenses paid.",
+    "label": 2,
+    "speaker": "Max",
+    "dialogue_id": 19,
+    "utterance_id": 7
+  },
+  {
+    "text": "So when, when do you leave?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 19,
+    "utterance_id": 8
+  },
+  {
+    "text": "January first",
+    "label": 1,
+    "speaker": "Max",
+    "dialogue_id": 19,
+    "utterance_id": 9
+  },
+  {
+    "text": "Here we go. Okay, brace yourselves.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 20,
+    "utterance_id": 0
+  },
+  {
+    "text": "What?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 20,
+    "utterance_id": 1
+  },
+  {
+    "text": "Okay.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 20,
+    "utterance_id": 2
+  },
+  {
+    "text": "Ow!",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 20,
+    "utterance_id": 3
+  },
+  {
+    "text": "Aren\u00c2\u0092t you gonna go?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 20,
+    "utterance_id": 4
+  },
+  {
+    "text": "No. Thank you.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 20,
+    "utterance_id": 5
+  },
+  {
+    "text": "No, Rachel never pees in public restrooms.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 20,
+    "utterance_id": 6
+  },
+  {
+    "text": "Well, they never have any paper in there y'know. So my rule is \u00c2\u0091no tissue, no tuschy.\u00c2\u0092  Well, if everybody\u00c2\u0092s going.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 20,
+    "utterance_id": 7
+  },
+  {
+    "text": "No, y'know what don\u00c2\u0092t close it  \u00c2\u0091cause the... keys...are in there.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 20,
+    "utterance_id": 8
+  },
+  {
+    "text": "Oh, no-no-no-no-no-no!!",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 20,
+    "utterance_id": 9
+  },
+  {
+    "text": "What\u00c2\u0092s going on?",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 20,
+    "utterance_id": 10
+  },
+  {
+    "text": "My lighter\u00c2\u0092s in there!",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 20,
+    "utterance_id": 11
+  },
+  {
+    "text": "Oh yeah, sure.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 21,
+    "utterance_id": 0
+  },
+  {
+    "text": "Okay, in about ten seconds you\u00c2\u0092re gonna see him kiss me.",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 21,
+    "utterance_id": 1
+  },
+  {
+    "text": "And in about five seconds you\u00c2\u0092re gonna see why.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 21,
+    "utterance_id": 2
+  },
+  {
+    "text": "Ross did I ever tell you about the time that I went backpacking through Western Europe?",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 21,
+    "utterance_id": 3
+  },
+  {
+    "text": "Okay, get ready to see some beggin\u00c2\u0092!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 21,
+    "utterance_id": 4
+  },
+  {
+    "text": "Oh, you came on to Ross!",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 21,
+    "utterance_id": 5
+  },
+  {
+    "text": "What?!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 21,
+    "utterance_id": 6
+  },
+  {
+    "text": "Now I\u00c2\u0092m so happy.",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 21,
+    "utterance_id": 7
+  },
+  {
+    "text": "What are you talking about?!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 21,
+    "utterance_id": 8
+  },
+  {
+    "text": "You used the Europe story!",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 21,
+    "utterance_id": 9
+  },
+  {
+    "text": "That\u00c2\u0092s the magic story you use when you wanna have sex!",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 21,
+    "utterance_id": 10
+  },
+  {
+    "text": "How do you know about that story?!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 21,
+    "utterance_id": 11
+  },
+  {
+    "text": "How do",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 21,
+    "utterance_id": 12
+  },
+  {
+    "text": "I heard it from my friend Irene who heard it from some guy!",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 21,
+    "utterance_id": 13
+  },
+  {
+    "text": "Some guy!!",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 21,
+    "utterance_id": 14
+  },
+  {
+    "text": "No. No, she told me his name was Ken Adams.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 21,
+    "utterance_id": 15
+  },
+  {
+    "text": "Ken Adams!!",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 21,
+    "utterance_id": 16
+  },
+  {
+    "text": "I still don't get why Greg and Jenny would give us a fake number.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 22,
+    "utterance_id": 0
+  },
+  {
+    "text": "Y\u00c2\u0092know, if they knew what they were doing they probably didn\u00c2\u0092t give you real names either.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 22,
+    "utterance_id": 1
+  },
+  {
+    "text": "Okay, maybe people give out fake numbers, but they don\u00c2\u0092t give out fake names.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 22,
+    "utterance_id": 2
+  },
+  {
+    "text": "Oh yeah?  Hi, Ken Adams, nice to meet you.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 22,
+    "utterance_id": 3
+  },
+  {
+    "text": "Regina Philange.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 22,
+    "utterance_id": 4
+  },
+  {
+    "text": "I still don\u00c2\u0092t get it, we didn\u00c2\u0092t do anything wrong.",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 22,
+    "utterance_id": 5
+  },
+  {
+    "text": "I know! Although, you did tell an awful lot of jokes.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 22,
+    "utterance_id": 6
+  },
+  {
+    "text": "I thought you said those jokes were funny. Joke! Joke! Joke!",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 22,
+    "utterance_id": 7
+  },
+  {
+    "text": "Joke. Joke. Blah! Blah!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 22,
+    "utterance_id": 8
+  },
+  {
+    "text": "Well maybe it was all of your questions.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 22,
+    "utterance_id": 9
+  },
+  {
+    "text": "What about my questions?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 22,
+    "utterance_id": 10
+  },
+  {
+    "text": "And shame on you! You should know better, Joey needs to work.  Now come on!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 23,
+    "utterance_id": 0
+  },
+  {
+    "text": "Hey!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 23,
+    "utterance_id": 1
+  },
+  {
+    "text": "No! Ah-ah-ah-ah-ah! You can have this back when the five pages are done!  Ahh!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 23,
+    "utterance_id": 2
+  },
+  {
+    "text": "Okay, you guys free tonight?",
+    "label": 1,
+    "speaker": "Gary",
+    "dialogue_id": 24,
+    "utterance_id": 0
+  },
+  {
+    "text": "Yeah!!",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 24,
+    "utterance_id": 1
+  },
+  {
+    "text": "Tonight? You-you didn't say it was going to be at nighttime.",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 24,
+    "utterance_id": 2
+  },
+  {
+    "text": "Where are we gonna find a tiny little hat?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 25,
+    "utterance_id": 0
+  },
+  {
+    "text": "Oh, oh, oh, I\u00c2\u0092ll get \u00c2\u0091Rainy Day Bear\u00c2\u0092!!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 25,
+    "utterance_id": 1
+  },
+  {
+    "text": "Because he\u00c2\u0092ll know what to do?  Oh my God, you\u00c2\u0092re a genius!",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 25,
+    "utterance_id": 2
+  },
+  {
+    "text": "Oh God, oh God, it\u00c2\u0092s sowed on though.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 25,
+    "utterance_id": 3
+  },
+  {
+    "text": "Give it. Give it.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 25,
+    "utterance_id": 4
+  },
+  {
+    "text": "Okay.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 25,
+    "utterance_id": 5
+  },
+  {
+    "text": "Oh!!",
+    "label": 0,
+    "speaker": "Monica and Rachel",
+    "dialogue_id": 25,
+    "utterance_id": 6
+  },
+  {
+    "text": "Oh, it\u00c2\u0092s just like a bloodbath in here today.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 25,
+    "utterance_id": 7
+  },
+  {
+    "text": "Oh, hi. It\u00c2\u0092s Mark.",
+    "label": 1,
+    "speaker": "Mark",
+    "dialogue_id": 26,
+    "utterance_id": 0
+  },
+  {
+    "text": "Oh my God, he\u00c2\u0092s lost it. He\u00c2\u0092s totally lost it.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 27,
+    "utterance_id": 0
+  },
+  {
+    "text": "What?",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 27,
+    "utterance_id": 1
+  },
+  {
+    "text": "Look at it! Ohhh! Wallpaper\u00c2\u0092s a little faded, that\u00c2\u0092s okay. Carpet\u00c2\u0092s a little loose. Hardwood floors!!",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 28,
+    "utterance_id": 0
+  },
+  {
+    "text": "Hey!",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 28,
+    "utterance_id": 1
+  },
+  {
+    "text": "Hello.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 28,
+    "utterance_id": 2
+  },
+  {
+    "text": "Oh! Ooh! Oh Monica! It\u00c2\u0092s so beautiful.",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 28,
+    "utterance_id": 3
+  },
+  {
+    "text": "I know!!!",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 28,
+    "utterance_id": 4
+  },
+  {
+    "text": "So, I\u00c2\u0092m here, ready to play.",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 28,
+    "utterance_id": 5
+  },
+  {
+    "text": "Okay.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 28,
+    "utterance_id": 6
+  },
+  {
+    "text": "I brought a bunch of stuff for the house, so check it out. Ha-ha.",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 28,
+    "utterance_id": 7
+  },
+  {
+    "text": "What\u00c2\u0092s this?",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 28,
+    "utterance_id": 8
+  },
+  {
+    "text": "That\u00c2\u0092s a dog, every house should have a dog.",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 28,
+    "utterance_id": 9
+  },
+  {
+    "text": "Not one that can pee on the roof.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 28,
+    "utterance_id": 10
+  },
+  {
+    "text": "Well, maybe it\u00c2\u0092s so big because the house was built on radioactive waste.",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 28,
+    "utterance_id": 11
+  },
+  {
+    "text": "And is this in case the house sneezes?",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 28,
+    "utterance_id": 12
+  },
+  {
+    "text": "No, no, that\u00c2\u0092s the ghost for the attic.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 28,
+    "utterance_id": 13
+  },
+  {
+    "text": "I don\u00c2\u0092t want a ghost.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 28,
+    "utterance_id": 14
+  },
+  {
+    "text": "Well, nobody wants a ghost. But you\u00c2\u0092ve got one, because the house is sitting on an ancient Indian burial ground.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 28,
+    "utterance_id": 15
+  },
+  {
+    "text": "Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen.",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 28,
+    "utterance_id": 16
+  },
+  {
+    "text": "Okay, obviously you don\u00c2\u0092t know much about the U.S. government.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 28,
+    "utterance_id": 17
+  },
+  {
+    "text": "Hey!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 28,
+    "utterance_id": 18
+  },
+  {
+    "text": "Hello.",
+    "label": 1,
+    "speaker": "All",
+    "dialogue_id": 28,
+    "utterance_id": 19
+  },
+  {
+    "text": "I need to talk to you!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 28,
+    "utterance_id": 20
+  },
+  {
+    "text": "Sure, what\u00c2\u0092s up?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 28,
+    "utterance_id": 21
+  },
+  {
+    "text": "So, you still don\u00c2\u0092t think I\u00c2\u0092m boyfriend material?",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 29,
+    "utterance_id": 0
+  },
+  {
+    "text": "Huh?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 29,
+    "utterance_id": 1
+  },
+  {
+    "text": "I saw you checking me out during the game last night.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 29,
+    "utterance_id": 2
+  },
+  {
+    "text": "Uh Phoebe, can I see you for a second?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 30,
+    "utterance_id": 0
+  },
+  {
+    "text": "Yeah!",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 30,
+    "utterance_id": 1
+  },
+  {
+    "text": "What\u00c2\u0092s going on?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 30,
+    "utterance_id": 2
+  },
+  {
+    "text": "Chandler\u00c2\u0092s gone again!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 30,
+    "utterance_id": 3
+  },
+  {
+    "text": "Oh my God! Why would you play hide and seek with someone you know is a flight risk?!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 30,
+    "utterance_id": 4
+  },
+  {
+    "text": "Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 31,
+    "utterance_id": 0
+  },
+  {
+    "text": "See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 31,
+    "utterance_id": 1
+  },
+  {
+    "text": "Pass it! Pass it!",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 31,
+    "utterance_id": 2
+  },
+  {
+    "text": "He's open!",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 31,
+    "utterance_id": 3
+  },
+  {
+    "text": "Shoot! Shoot! Shoot!",
+    "label": 2,
+    "speaker": "All",
+    "dialogue_id": 31,
+    "utterance_id": 4
+  },
+  {
+    "text": "Hey, look, we're on that TV thing!",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 31,
+    "utterance_id": 5
+  },
+  {
+    "text": "Take it.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 32,
+    "utterance_id": 0
+  },
+  {
+    "text": "What?",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 32,
+    "utterance_id": 1
+  },
+  {
+    "text": "So where are we going next?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 33,
+    "utterance_id": 0
+  },
+  {
+    "text": "This witness won't return my calls so we're gonna see if we can surprise him coming home.",
+    "label": 1,
+    "speaker": "Gary",
+    "dialogue_id": 33,
+    "utterance_id": 1
+  },
+  {
+    "text": "Sur-surprise him? We're not, we're not gonna make anybody mad are we?",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 33,
+    "utterance_id": 2
+  },
+  {
+    "text": "Come on man!  Listen so uh, are you gonna squeeze the perps shoes a little bit before he lawyers up?",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 33,
+    "utterance_id": 3
+  },
+  {
+    "text": "It's a witness not a perp. And no one talks like that!",
+    "label": 0,
+    "speaker": "Gary",
+    "dialogue_id": 33,
+    "utterance_id": 4
+  },
+  {
+    "text": "Yeah, no one talks like that!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 33,
+    "utterance_id": 5
+  },
+  {
+    "text": "Oh what? Like your Mr. Cop!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 33,
+    "utterance_id": 6
+  },
+  {
+    "text": "Hey, I'm more cop than you two!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 33,
+    "utterance_id": 7
+  },
+  {
+    "text": "How do you figure that?",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 33,
+    "utterance_id": 8
+  },
+  {
+    "text": "Hello! I'm in the front seat, okay? I'm Gary's partner!",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 33,
+    "utterance_id": 9
+  },
+  {
+    "text": "Ben!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 34,
+    "utterance_id": 0
+  },
+  {
+    "text": "Oh, that's good. Maybe he'll hear you and pull the cord.",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 34,
+    "utterance_id": 1
+  },
+  {
+    "text": "Stop the bus! Wait! Wait! Wait!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 34,
+    "utterance_id": 2
+  },
+  {
+    "text": "Are you sure he didn't break it because it really hurts?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 34,
+    "utterance_id": 3
+  },
+  {
+    "text": "No, it's just a good bone bruise. And, right here  is the puncture wound from your ring.",
+    "label": 1,
+    "speaker": "Doctor",
+    "dialogue_id": 34,
+    "utterance_id": 4
+  },
+  {
+    "text": "Oh, I'm sorry, I'm really sorry.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 34,
+    "utterance_id": 5
+  },
+  {
+    "text": "Sorry.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 34,
+    "utterance_id": 6
+  },
+  {
+    "text": "Sorry!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 34,
+    "utterance_id": 7
+  },
+  {
+    "text": "I got my s's back!",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 34,
+    "utterance_id": 8
+  },
+  {
+    "text": "Which we can celebrate later.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 34,
+    "utterance_id": 9
+  },
+  {
+    "text": "Celebrate.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 34,
+    "utterance_id": 10
+  },
+  {
+    "text": "I am so psyched I kept this chair for myself!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 35,
+    "utterance_id": 0
+  },
+  {
+    "text": "Yeah, me too.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 35,
+    "utterance_id": 1
+  },
+  {
+    "text": "Yeah? Wow! Y\u00c2\u0092know, that this thing has speakers in the headrest!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 35,
+    "utterance_id": 2
+  },
+  {
+    "text": "No. Really?",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 35,
+    "utterance_id": 3
+  },
+  {
+    "text": "Yeah! You can hook it up to your TV",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 35,
+    "utterance_id": 4
+  },
+  {
+    "text": "My chair heals itself.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 35,
+    "utterance_id": 5
+  },
+  {
+    "text": "So honey this uh, this threesome thing umm, I mean how-how are you gonna start to find",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 36,
+    "utterance_id": 0
+  },
+  {
+    "text": "Ooh, actually I\u00c2\u0092ve been making a list of all the women I know who might be into doing this!",
+    "label": 2,
+    "speaker": "Carol",
+    "dialogue_id": 36,
+    "utterance_id": 1
+  },
+  {
+    "text": "Oh.  Wow!  Huh.  Boy!  Well, someone\u00c2\u0092s been doing their homework.",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 36,
+    "utterance_id": 2
+  },
+  {
+    "text": "Yeah. Ooh, and I know Gail Rosten is in there twice, but she is so",
+    "label": 1,
+    "speaker": "Carol",
+    "dialogue_id": 36,
+    "utterance_id": 3
+  },
+  {
+    "text": "Oh, I know.  Y\u00c2\u0092know, just-just talking about it is getting me kinda",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 36,
+    "utterance_id": 4
+  },
+  {
+    "text": "Oh, me too.",
+    "label": 1,
+    "speaker": "Carol",
+    "dialogue_id": 36,
+    "utterance_id": 5
+  },
+  {
+    "text": "Hey, what are you doing here?",
+    "label": 1,
+    "speaker": "Carol",
+    "dialogue_id": 37,
+    "utterance_id": 0
+  },
+  {
+    "text": "Well, oh just ah, I was just wondering, when you and I split up, did you get the tape that was half the last episode of",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 37,
+    "utterance_id": 1
+  },
+  {
+    "text": "Ah yeah, but now it\u00c2\u0092s Susan and me in Mexico and the hostages coming home.",
+    "label": 1,
+    "speaker": "Carol",
+    "dialogue_id": 37,
+    "utterance_id": 2
+  },
+  {
+    "text": "Where\u00c2\u0092s Ben?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 37,
+    "utterance_id": 3
+  },
+  {
+    "text": "He\u00c2\u0092s sleeping.",
+    "label": 1,
+    "speaker": "Carol",
+    "dialogue_id": 37,
+    "utterance_id": 4
+  },
+  {
+    "text": "Ahh.  Ooh, is this a ah, is this a bad time?",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 37,
+    "utterance_id": 5
+  },
+  {
+    "text": "Umm, yeah, actually, Susan\u00c2\u0092s gonna be home any minute, it\u00c2\u0092s kinda an anniversary.",
+    "label": 2,
+    "speaker": "Carol",
+    "dialogue_id": 37,
+    "utterance_id": 6
+  },
+  {
+    "text": "Oh! I thought you guys got married in uh, January?",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 37,
+    "utterance_id": 7
+  },
+  {
+    "text": "It\u00c2\u0092s not that kind of anniversary.",
+    "label": 1,
+    "speaker": "Carol",
+    "dialogue_id": 37,
+    "utterance_id": 8
+  },
+  {
+    "text": "Ah!  Oh.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 37,
+    "utterance_id": 9
+  },
+  {
+    "text": "Sooo!! Anyway...",
+    "label": 1,
+    "speaker": "Carol",
+    "dialogue_id": 37,
+    "utterance_id": 10
+  },
+  {
+    "text": "Dude, you don\u00c2\u0092t have to brag! We got nothing here!!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 38,
+    "utterance_id": 0
+  },
+  {
+    "text": "Tiger!  Dragon! Iceberg!!  Joseph, did you even study at all last night?",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 39,
+    "utterance_id": 0
+  },
+  {
+    "text": "Yes! Yes, I did.",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 39,
+    "utterance_id": 1
+  },
+  {
+    "text": "Then do Iceberg!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 39,
+    "utterance_id": 2
+  },
+  {
+    "text": "G-sharp.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 39,
+    "utterance_id": 3
+  },
+  {
+    "text": "G",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 39,
+    "utterance_id": 4
+  },
+  {
+    "text": "What?! I didn't touch a guitar!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 39,
+    "utterance_id": 5
+  },
+  {
+    "text": "No, but you're questioning my method!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 39,
+    "utterance_id": 6
+  },
+  {
+    "text": "No, I'm not questioning it, I'm saying it's stupid!  What?!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 39,
+    "utterance_id": 7
+  },
+  {
+    "text": "Thank you.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 39,
+    "utterance_id": 8
+  },
+  {
+    "text": "Y'know none of my other student thought I was stupid.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 39,
+    "utterance_id": 9
+  },
+  {
+    "text": "Your other student, was you!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 39,
+    "utterance_id": 10
+  },
+  {
+    "text": "Yeah, well, y'know maybe you just need to try a little harder!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 39,
+    "utterance_id": 11
+  },
+  {
+    "text": "Look, maybe I need to try a real teacher!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 39,
+    "utterance_id": 12
+  },
+  {
+    "text": "Right here!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 39,
+    "utterance_id": 13
+  },
+  {
+    "text": "Here!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 39,
+    "utterance_id": 14
+  },
+  {
+    "text": "Andy Cooper, he teaches guitar and look ooh, there's a nice picture of him with a little kid and",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 39,
+    "utterance_id": 15
+  },
+  {
+    "text": "Fine! You go learn from your qualified instructor! But don't come crying to me when everyone's sick and tired of hearing you play",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 39,
+    "utterance_id": 16
+  },
+  {
+    "text": "\"Baddest man in the whole damn town.\"",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 39,
+    "utterance_id": 17
+  },
+  {
+    "text": "Oh, fine! Take his side!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 39,
+    "utterance_id": 18
+  },
+  {
+    "text": "Aww!",
+    "label": 2,
+    "speaker": "All",
+    "dialogue_id": 40,
+    "utterance_id": 0
+  },
+  {
+    "text": "Hey Pheebs, could you please not put your feet up on my new\u00c2\u0085\u00c2\u0085old sheet?",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 40,
+    "utterance_id": 1
+  },
+  {
+    "text": "Oh sure!  Noo!",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 40,
+    "utterance_id": 2
+  },
+  {
+    "text": "Ohh!!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 40,
+    "utterance_id": 3
+  },
+  {
+    "text": "My apothecary table!!!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 40,
+    "utterance_id": 4
+  },
+  {
+    "text": "What?!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 40,
+    "utterance_id": 5
+  },
+  {
+    "text": "Noooooo!!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 40,
+    "utterance_id": 6
+  },
+  {
+    "text": "Ross, where did you get this?!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 40,
+    "utterance_id": 7
+  },
+  {
+    "text": "Oh my God, Phoebe,",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 40,
+    "utterance_id": 8
+  },
+  {
+    "text": "Wow! Oh my God, well if they\u00c2\u0092ve ripped off our table ours must be much more than one and fifty dollars!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 40,
+    "utterance_id": 9
+  },
+  {
+    "text": "Well this doesn\u00c2\u0092t even smell like opium.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 40,
+    "utterance_id": 10
+  },
+  {
+    "text": "Of course not, it smells like wine, which you spilled! And thanks for wrecking my sheet by the way.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 40,
+    "utterance_id": 11
+  },
+  {
+    "text": "Rachel, it\u00c2\u0092s going to happen. Chandler is gonna move in here.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 41,
+    "utterance_id": 0
+  },
+  {
+    "text": "But I",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 41,
+    "utterance_id": 1
+  },
+  {
+    "text": "No-no, wait!",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 41,
+    "utterance_id": 2
+  },
+  {
+    "text": "Just let me finish, okay?",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 41,
+    "utterance_id": 3
+  },
+  {
+    "text": "This isn\u00c2\u0092t something that we just, we just impulsively decided in-in Vegas, this is something we both really want.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 41,
+    "utterance_id": 4
+  },
+  {
+    "text": "And it",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 41,
+    "utterance_id": 5
+  },
+  {
+    "text": "It is? Really?",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 41,
+    "utterance_id": 6
+  },
+  {
+    "text": "Yeah, sweetie.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 41,
+    "utterance_id": 7
+  },
+  {
+    "text": "I mean we\u00c2\u0092re not, we\u00c2\u0092re not gonna live together anymore?",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 41,
+    "utterance_id": 8
+  },
+  {
+    "text": "No.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 41,
+    "utterance_id": 9
+  },
+  {
+    "text": "What? Oh my God! I\u00c2\u0092m gonna miss you so much!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 41,
+    "utterance_id": 10
+  },
+  {
+    "text": "I\u00c2\u0092m gonna miss you!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 41,
+    "utterance_id": 11
+  },
+  {
+    "text": "I mean it\u00c2\u0092s the end of an era!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 41,
+    "utterance_id": 12
+  },
+  {
+    "text": "I know!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 41,
+    "utterance_id": 13
+  },
+  {
+    "text": "I am.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 42,
+    "utterance_id": 0
+  },
+  {
+    "text": "Joey, what are you talking about? You\u00c2\u0092re a terrific actor.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 42,
+    "utterance_id": 1
+  },
+  {
+    "text": "You really think so?",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 42,
+    "utterance_id": 2
+  },
+  {
+    "text": "Ugh, how can you even ask that question?!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 42,
+    "utterance_id": 3
+  },
+  {
+    "text": "The reactor\u00c2\u0092s gonna blow in three seconds, we\u00c2\u0092re never gonna make it!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 43,
+    "utterance_id": 0
+  },
+  {
+    "text": "You\u00c2\u0092ve got to get out of here! Save yourself!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 43,
+    "utterance_id": 1
+  },
+  {
+    "text": "No! I won\u00c2\u0092t leave you!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 43,
+    "utterance_id": 2
+  },
+  {
+    "text": "Don\u00c2\u0092t worry about me, I\u00c2\u0092m a robot! I\u00c2\u0092m just a machine!!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 43,
+    "utterance_id": 3
+  },
+  {
+    "text": "No you\u00c2\u0092re not! Not to me!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 43,
+    "utterance_id": 4
+  },
+  {
+    "text": "Oh my God.",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 43,
+    "utterance_id": 5
+  },
+  {
+    "text": "What?",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 43,
+    "utterance_id": 6
+  },
+  {
+    "text": "I am",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 43,
+    "utterance_id": 7
+  },
+  {
+    "text": "Yeah, you\u00c2\u0092re great! Okay, let\u00c2\u0092s take it from",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 43,
+    "utterance_id": 8
+  },
+  {
+    "text": "No, I mean I was really acting my ass off.",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 43,
+    "utterance_id": 9
+  },
+  {
+    "text": "Yeah, I thought I was pretty good too.",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 43,
+    "utterance_id": 10
+  },
+  {
+    "text": "Oh yeah, you\u00c2\u0092re solid. Yeah, you\u00c2\u0092re just no me.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 43,
+    "utterance_id": 11
+  },
+  {
+    "text": "Y\u00c2\u0092know what? I think that\u00c2\u0092s enough for now. Yeah. I don\u00c2\u0092t want to be over rehearsed.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 43,
+    "utterance_id": 12
+  },
+  {
+    "text": "Fine!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 43,
+    "utterance_id": 13
+  },
+  {
+    "text": "I\u00c2\u0092ll do it without you!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 43,
+    "utterance_id": 14
+  },
+  {
+    "text": "I don\u00c2\u0092t need you or anybody else!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 43,
+    "utterance_id": 15
+  },
+  {
+    "text": "I\u00c2\u0092m gonna make it on my own!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 43,
+    "utterance_id": 16
+  },
+  {
+    "text": "You\u00c2\u0092ll see!!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 43,
+    "utterance_id": 17
+  },
+  {
+    "text": "You\u00c2\u0092ll",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 43,
+    "utterance_id": 18
+  },
+  {
+    "text": "I\u00c2\u0092m sorry.",
+    "label": 0,
+    "speaker": "Kate",
+    "dialogue_id": 44,
+    "utterance_id": 0
+  },
+  {
+    "text": "Pretty great! Except I did get a little attitude from the robot.",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 45,
+    "utterance_id": 0
+  },
+  {
+    "text": "Damn those robots, they\u00c2\u0092re supposed to be our",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 45,
+    "utterance_id": 1
+  },
+  {
+    "text": "Anyway, it wasn\u00c2\u0092t the robot, it was the guy who controls him.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 45,
+    "utterance_id": 2
+  },
+  {
+    "text": "Yeah, he doesn\u00c2\u0092t like me.",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 45,
+    "utterance_id": 3
+  },
+  {
+    "text": "He had C.H.E.E.S.E.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 45,
+    "utterance_id": 4
+  },
+  {
+    "text": "knock over the sandwich right when I was reaching for one!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 45,
+    "utterance_id": 5
+  },
+  {
+    "text": "Ohh!",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 45,
+    "utterance_id": 6
+  },
+  {
+    "text": "Well, why don\u00c2\u0092t you just get him fired?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 45,
+    "utterance_id": 7
+  },
+  {
+    "text": "I may have to, I hate to do it, but I\u00c2\u0092m the star!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 45,
+    "utterance_id": 8
+  },
+  {
+    "text": "Y\u00c2\u0092know?",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 45,
+    "utterance_id": 9
+  },
+  {
+    "text": "There\u00c2\u0092s a limit to how many sandwiches I can eat off the floor.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 45,
+    "utterance_id": 10
+  },
+  {
+    "text": "Excuse me.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 45,
+    "utterance_id": 11
+  },
+  {
+    "text": "Joey Tribbiani.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 45,
+    "utterance_id": 12
+  },
+  {
+    "text": "Joe! I\u00c2\u0092m glad I found ya, I got an audition for ya!",
+    "label": 2,
+    "speaker": "Estelle",
+    "dialogue_id": 45,
+    "utterance_id": 13
+  },
+  {
+    "text": "Wow!",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 45,
+    "utterance_id": 14
+  },
+  {
+    "text": "The thing is it\u00c2\u0092s kinda on the Q.T.",
+    "label": 1,
+    "speaker": "Estelle",
+    "dialogue_id": 45,
+    "utterance_id": 15
+  },
+  {
+    "text": "The actor who has the part doesn\u00c2\u0092t know he might be fired.",
+    "label": 1,
+    "speaker": "Estelle",
+    "dialogue_id": 45,
+    "utterance_id": 16
+  },
+  {
+    "text": "It\u00c2\u0092s the lead in a series, Mac and C.H.E.E.S.E.",
+    "label": 1,
+    "speaker": "Estelle",
+    "dialogue_id": 45,
+    "utterance_id": 17
+  },
+  {
+    "text": "I\u00c2\u0092m the lead in Mac and C.H.E.E.S.E.!!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 45,
+    "utterance_id": 18
+  },
+  {
+    "text": "Hey Monica, there\u00c2\u0092s a customer who wants to complement the chef, should I let him in?",
+    "label": 1,
+    "speaker": "Waitress",
+    "dialogue_id": 46,
+    "utterance_id": 0
+  },
+  {
+    "text": "Sure, I love this part!",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 46,
+    "utterance_id": 1
+  },
+  {
+    "text": "Come on in.",
+    "label": 1,
+    "speaker": "Waitress",
+    "dialogue_id": 46,
+    "utterance_id": 2
+  },
+  {
+    "text": "What is wrong with Emma?",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 47,
+    "utterance_id": 0
+  },
+  {
+    "text": "Oh she misunderstood, she thought she was moving to Tulsa.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 47,
+    "utterance_id": 1
+  },
+  {
+    "text": "Hey!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 48,
+    "utterance_id": 0
+  },
+  {
+    "text": "What are you guys doing later?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 48,
+    "utterance_id": 1
+  },
+  {
+    "text": "Oh, Rachel and I have appointments to get our hair cut.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 48,
+    "utterance_id": 2
+  },
+  {
+    "text": "We do?",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 48,
+    "utterance_id": 3
+  },
+  {
+    "text": "I want to see what he wants first.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 48,
+    "utterance_id": 4
+  },
+  {
+    "text": "I just found out that Elizabeth\u00c2\u0092s dad wants to meet me.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 48,
+    "utterance_id": 5
+  },
+  {
+    "text": "Wait a minute, hold the phone! You\u00c2\u0092re not Elizabeth\u00c2\u0092s dad?!",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 48,
+    "utterance_id": 6
+  },
+  {
+    "text": "Come on guys, I-I really want this guy to like me.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 48,
+    "utterance_id": 7
+  },
+  {
+    "text": "It-it would really help me out if you guys were here to make me look good.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 48,
+    "utterance_id": 8
+  },
+  {
+    "text": "Of course we\u00c2\u0092ll help! Yeah! We\u00c2\u0092ll be here!",
+    "label": 2,
+    "speaker": "All",
+    "dialogue_id": 48,
+    "utterance_id": 9
+  },
+  {
+    "text": "Thanks!",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 48,
+    "utterance_id": 10
+  },
+  {
+    "text": "We know how tough those parent/teacher conferences can be.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 48,
+    "utterance_id": 11
+  },
+  {
+    "text": "And that\u00c2\u0092s I\u00c2\u0092m so glad\u00c2\u0085 there\u00c2\u0092s no problem.",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 49,
+    "utterance_id": 0
+  },
+  {
+    "text": "That\u00c2\u0092s fine, actually I\u00c2\u0092m on the hiring committee, so there\u00c2\u0092ll be at least one friendly face.",
+    "label": 1,
+    "speaker": "Joanna",
+    "dialogue_id": 49,
+    "utterance_id": 1
+  },
+  {
+    "text": "Ohh! That\u00c2\u0092s great!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 49,
+    "utterance_id": 2
+  },
+  {
+    "text": "You know, Junior Miss is where I started. Oh, I had to sleep with the",
+    "label": 1,
+    "speaker": "Joanna",
+    "dialogue_id": 49,
+    "utterance_id": 3
+  },
+  {
+    "text": "Really?!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 49,
+    "utterance_id": 4
+  },
+  {
+    "text": "No-ho-ho!",
+    "label": 2,
+    "speaker": "Joanna",
+    "dialogue_id": 49,
+    "utterance_id": 5
+  },
+  {
+    "text": "Yeah.",
+    "label": 1,
+    "speaker": "Joanna",
+    "dialogue_id": 49,
+    "utterance_id": 6
+  },
+  {
+    "text": "I mean, no-no-no-no-no, don\u00c2\u0092t you worry, I\u00c2\u0092m sure with your qualifications you won\u00c2\u0092t need to sleep with some guy to get that job.",
+    "label": 1,
+    "speaker": "Joanna",
+    "dialogue_id": 49,
+    "utterance_id": 7
+  },
+  {
+    "text": "Although, I might need some convincing.",
+    "label": 1,
+    "speaker": "Joanna",
+    "dialogue_id": 49,
+    "utterance_id": 8
+  },
+  {
+    "text": "Well, I, umm",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 49,
+    "utterance_id": 9
+  },
+  {
+    "text": "Kidding! God, I feel wild today!",
+    "label": 2,
+    "speaker": "Joanna",
+    "dialogue_id": 49,
+    "utterance_id": 10
+  },
+  {
+    "text": "You had no right to tell me you ever had feelings for me.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 50,
+    "utterance_id": 0
+  },
+  {
+    "text": "What?",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 50,
+    "utterance_id": 1
+  },
+  {
+    "text": "I was doing great with Julie before I found out about you.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 50,
+    "utterance_id": 2
+  },
+  {
+    "text": "Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 50,
+    "utterance_id": 3
+  },
+  {
+    "text": "The point is I...",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 50,
+    "utterance_id": 4
+  },
+  {
+    "text": "I don't need this right now, OK.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 50,
+    "utterance_id": 5
+  },
+  {
+    "text": "It, it's too late, I'm with somebody else, I'm happy.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 50,
+    "utterance_id": 6
+  },
+  {
+    "text": "This ship has sailed.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 50,
+    "utterance_id": 7
+  },
+  {
+    "text": "Alright, fine, you go ahead and you do that, alright Ross.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 50,
+    "utterance_id": 8
+  },
+  {
+    "text": "Fine.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 50,
+    "utterance_id": 9
+  },
+  {
+    "text": "Cause I don't need your stupid ship.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 50,
+    "utterance_id": 10
+  },
+  {
+    "text": "Good.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 50,
+    "utterance_id": 11
+  },
+  {
+    "text": "Good.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 50,
+    "utterance_id": 12
+  },
+  {
+    "text": "Oh... ok, fine.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 51,
+    "utterance_id": 0
+  },
+  {
+    "text": "But... ehm...",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 51,
+    "utterance_id": 1
+  },
+  {
+    "text": "I just have one question for you,    ehm...",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 51,
+    "utterance_id": 2
+  },
+  {
+    "text": "When we exit should we walk, or run, or prance,    or stroll...",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 51,
+    "utterance_id": 3
+  },
+  {
+    "text": "Stop it, stop it! He talks slow but he might pee fast! Ok,    let's go!!",
+    "label": 2,
+    "speaker": "Charlie",
+    "dialogue_id": 51,
+    "utterance_id": 4
+  },
+  {
+    "text": "Hey!",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 52,
+    "utterance_id": 0
+  },
+  {
+    "text": "Hey!",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 52,
+    "utterance_id": 1
+  },
+  {
+    "text": "Hey, guess what I\u00c2\u0092m doing tonight.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 52,
+    "utterance_id": 2
+  },
+  {
+    "text": "What?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 52,
+    "utterance_id": 3
+  },
+  {
+    "text": "I\u00c2\u0092m checking out the restaurant with Pete.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 52,
+    "utterance_id": 4
+  },
+  {
+    "text": "Ohh, Monica, I am so excited for you.",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 52,
+    "utterance_id": 5
+  },
+  {
+    "text": "I licked my arm, what?",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 53,
+    "utterance_id": 0
+  },
+  {
+    "text": "It's breast milk.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 53,
+    "utterance_id": 1
+  },
+  {
+    "text": "So?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 53,
+    "utterance_id": 2
+  },
+  {
+    "text": "Phoebe, that is juice, squeezed from a person.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 53,
+    "utterance_id": 3
+  },
+  {
+    "text": "What is the big deal?",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 53,
+    "utterance_id": 4
+  },
+  {
+    "text": "What did you just do?",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 53,
+    "utterance_id": 5
+  },
+  {
+    "text": "Ok, would people stop drinking the breast milk?",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 53,
+    "utterance_id": 6
+  },
+  {
+    "text": "You won't even taste it?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 53,
+    "utterance_id": 7
+  },
+  {
+    "text": "No!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 53,
+    "utterance_id": 8
+  },
+  {
+    "text": "Not even if you just pretend that it's milk?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 53,
+    "utterance_id": 9
+  },
+  {
+    "text": "Not even if Carol's breast had a picture of a missing child on it.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 53,
+    "utterance_id": 10
+  },
+  {
+    "text": "Pete Becker is circling the ring now. It looks like, he\u00c2\u0092s just trying to feel him out. Oh, Bruiser is just...",
+    "label": 1,
+    "speaker": "TV Announcer",
+    "dialogue_id": 54,
+    "utterance_id": 0
+  },
+  {
+    "text": "Run! Run you crazy, rich freak!",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 54,
+    "utterance_id": 1
+  },
+  {
+    "text": "Oh, I can\u00c2\u0092t watch this.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 54,
+    "utterance_id": 2
+  },
+  {
+    "text": "Check it out, he\u00c2\u0092s winning!  Pete\u00c2\u0092s winning!",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 54,
+    "utterance_id": 3
+  },
+  {
+    "text": "Really?!",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 54,
+    "utterance_id": 4
+  },
+  {
+    "text": "No-o-o!!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 54,
+    "utterance_id": 5
+  },
+  {
+    "text": "Uh-oh, Bruiser has Becker on the canvas and is going for his favourite area.",
+    "label": 0,
+    "speaker": "TV Announcer",
+    "dialogue_id": 54,
+    "utterance_id": 6
+  },
+  {
+    "text": "Oh! Oh!",
+    "label": 0,
+    "speaker": "All",
+    "dialogue_id": 54,
+    "utterance_id": 7
+  },
+  {
+    "text": "Wait, if that\u00c2\u0092s his favourite area, why is he being so mean to it?",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 54,
+    "utterance_id": 8
+  },
+  {
+    "text": "Well, this is ironic.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 54,
+    "utterance_id": 9
+  },
+  {
+    "text": "Of your last two boyfriends, Richard didn\u00c2\u0092t want to have kids, and from the looks of it, now Pete can\u00c2\u0092t.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 54,
+    "utterance_id": 10
+  },
+  {
+    "text": "Or! Or, we could go to the bank, close our accounts and cut them off at the source.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 55,
+    "utterance_id": 0
+  },
+  {
+    "text": "You\u00c2\u0092re a genius!",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 55,
+    "utterance_id": 1
+  },
+  {
+    "text": "Aww, man, now we won\u00c2\u0092t be bank buddies!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 55,
+    "utterance_id": 2
+  },
+  {
+    "text": "Now, there\u00c2\u0092s two reasons.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 55,
+    "utterance_id": 3
+  },
+  {
+    "text": "Hey.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 55,
+    "utterance_id": 4
+  },
+  {
+    "text": "Hey!",
+    "label": 2,
+    "speaker": "All",
+    "dialogue_id": 55,
+    "utterance_id": 5
+  },
+  {
+    "text": "Ohh, you guys, remember that cute client I told you about? I bit him.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 55,
+    "utterance_id": 6
+  },
+  {
+    "text": "Where?!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 55,
+    "utterance_id": 7
+  },
+  {
+    "text": "On the touchy.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 55,
+    "utterance_id": 8
+  },
+  {
+    "text": "And",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 55,
+    "utterance_id": 9
+  },
+  {
+    "text": "No, I know!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 55,
+    "utterance_id": 10
+  },
+  {
+    "text": "I-I\u00c2\u0092m sorry, but the moment I touch him, I just wanna throw out my old oath and take a new, dirty one.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 55,
+    "utterance_id": 11
+  },
+  {
+    "text": "Well, next time your massaging him, you should try and distract yourself.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 55,
+    "utterance_id": 12
+  },
+  {
+    "text": "Yeah! Yeah! Yeah! Like-like when I\u00c2\u0092m doing something exciting and I don\u00c2\u0092t wanna get",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 55,
+    "utterance_id": 13
+  },
+  {
+    "text": "Thank you, Joey.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 55,
+    "utterance_id": 14
+  },
+  {
+    "text": "No-no, thank you.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 55,
+    "utterance_id": 15
+  },
+  {
+    "text": "Easy. Easy. You have to go to the hospital. Okay?",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 56,
+    "utterance_id": 0
+  },
+  {
+    "text": "Okay, I do.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 56,
+    "utterance_id": 1
+  },
+  {
+    "text": "Okay.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 56,
+    "utterance_id": 2
+  },
+  {
+    "text": "I really do.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 56,
+    "utterance_id": 3
+  },
+  {
+    "text": "Okay, I\u00c2\u0092m gonna get your coat and then I\u00c2\u0092ll-I\u00c2\u0092ll put you in a cab.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 56,
+    "utterance_id": 4
+  },
+  {
+    "text": "Okay. Oh wait, wait-wait, you\u00c2\u0092re not gonna come with me?",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 56,
+    "utterance_id": 5
+  },
+  {
+    "text": "Of course I am. I just have to make a call.",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 56,
+    "utterance_id": 6
+  },
+  {
+    "text": "Okay.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 56,
+    "utterance_id": 7
+  },
+  {
+    "text": "Okay?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 56,
+    "utterance_id": 8
+  },
+  {
+    "text": "Thank you.  Oww!!!! God!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 56,
+    "utterance_id": 9
+  },
+  {
+    "text": "What?! I wh-, what\u00c2\u0092s wrong?",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 56,
+    "utterance_id": 10
+  },
+  {
+    "text": "I\u00c2\u0092m sorry, I just can\u00c2\u0092t go to the hospital lookin\u00c2\u0092 like this.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 56,
+    "utterance_id": 11
+  },
+  {
+    "text": "How is she?",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 57,
+    "utterance_id": 0
+  },
+  {
+    "text": "It's too soon to tell. She's resting, which is a good sign.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 57,
+    "utterance_id": 1
+  },
+  {
+    "text": "How's the hair?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 57,
+    "utterance_id": 2
+  },
+  {
+    "text": "I'm not gonna lie to you, Ross, it doesn't look good.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 57,
+    "utterance_id": 3
+  },
+  {
+    "text": "I put a clip on one side, which seems to have stopped the curling.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 57,
+    "utterance_id": 4
+  },
+  {
+    "text": "Can we see her?",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 57,
+    "utterance_id": 5
+  },
+  {
+    "text": "Your hair looks too good, I think it would upset her. Ross, why don't you come on in.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 57,
+    "utterance_id": 6
+  },
+  {
+    "text": "How're you doing?",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 57,
+    "utterance_id": 7
+  },
+  {
+    "text": "Oh my good God.",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 58,
+    "utterance_id": 0
+  },
+  {
+    "text": "Hey! Continuing the countdown of your favorite meals. Tonight, No. 3, macaroni and cheese with cut up hot dogs.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 58,
+    "utterance_id": 1
+  },
+  {
+    "text": "Look, you have done enough! Okay? You have to stop this now.",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 58,
+    "utterance_id": 2
+  },
+  {
+    "text": "I will! But not tonight. For dinner music, I thought we could listen to that tape you made me.",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 58,
+    "utterance_id": 3
+  },
+  {
+    "text": "Oh, the mixed tape.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 58,
+    "utterance_id": 4
+  },
+  {
+    "text": "The Way You Look Tonight",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 58,
+    "utterance_id": 5
+  },
+  {
+    "text": "You are just the sweetest.",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 58,
+    "utterance_id": 6
+  },
+  {
+    "text": "In",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 59,
+    "utterance_id": 0
+  },
+  {
+    "text": "Oh, this life! Oh okay no, Chandler's is worse.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 59,
+    "utterance_id": 1
+  },
+  {
+    "text": "Man, it must be so cool remembering stuff like that! I don't have any past life memories.",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 59,
+    "utterance_id": 2
+  },
+  {
+    "text": "Of course you don't sweetie. You're brand new.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 59,
+    "utterance_id": 3
+  },
+  {
+    "text": "I know Monica's worst Thanksgiving.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 59,
+    "utterance_id": 4
+  },
+  {
+    "text": "Oh, let's not tell this story.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 59,
+    "utterance_id": 5
+  },
+  {
+    "text": "Oh, come on!",
+    "label": 0,
+    "speaker": "All",
+    "dialogue_id": 59,
+    "utterance_id": 6
+  },
+  {
+    "text": "Oh no, I know! I know! It's the one where Joey got Monica's turkey stuck on his head!",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 59,
+    "utterance_id": 7
+  },
+  {
+    "text": "What?! Joey got a turkey stuck on his head?!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 59,
+    "utterance_id": 8
+  },
+  {
+    "text": "Hey, it's not like it sounds.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 59,
+    "utterance_id": 9
+  },
+  {
+    "text": "It's",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 59,
+    "utterance_id": 10
+  },
+  {
+    "text": "I\u00c2\u0092ll do it.",
+    "label": 1,
+    "speaker": "Cookie",
+    "dialogue_id": 60,
+    "utterance_id": 0
+  },
+  {
+    "text": "No you won\u00c2\u0092t.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 60,
+    "utterance_id": 1
+  },
+  {
+    "text": "Look he knows he did a terrible thing and I believe him, he\u00c2\u0092s sorry.",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 60,
+    "utterance_id": 2
+  },
+  {
+    "text": "But,  you\u00c2\u0092ve got one more apology to make, all right, you\u00c2\u0092ve got to apologize to Mary-Angela.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 60,
+    "utterance_id": 3
+  },
+  {
+    "text": "Okay, absolutely!",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 60,
+    "utterance_id": 4
+  },
+  {
+    "text": "All right.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 60,
+    "utterance_id": 5
+  },
+  {
+    "text": "You\u00c2\u0092ve got it.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 60,
+    "utterance_id": 6
+  },
+  {
+    "text": "Cookie, now you can punch him!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 60,
+    "utterance_id": 7
+  },
+  {
+    "text": "What?!",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 60,
+    "utterance_id": 8
+  },
+  {
+    "text": "Emma!  See? I don\u00c2\u0092t want it.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 61,
+    "utterance_id": 0
+  },
+  {
+    "text": "Yes, if the foxhole was lined with sandwiches.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 62,
+    "utterance_id": 0
+  },
+  {
+    "text": "Yeah, hero sandwiches.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 62,
+    "utterance_id": 1
+  },
+  {
+    "text": "Well you all know that I'm a pacifist so I'm not interested in war in any way.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 62,
+    "utterance_id": 2
+  },
+  {
+    "text": "When the revolution comes, I will have to destroy you all.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 62,
+    "utterance_id": 3
+  },
+  {
+    "text": "Not you Joey.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 62,
+    "utterance_id": 4
+  },
+  {
+    "text": "I, umm, shut up!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 63,
+    "utterance_id": 0
+  },
+  {
+    "text": "\u00c2\u0093Good-bye Phoebe and Ursula. I\u00c2\u0092ll miss you. P.S. Your Mom lives in Montauk.\u00c2\u0094 You just wrote this!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 63,
+    "utterance_id": 1
+  },
+  {
+    "text": "Well, it\u00c2\u0092s pretty much the gist. Well, except for the poem. You read the poem, right?",
+    "label": 1,
+    "speaker": "Ursula",
+    "dialogue_id": 63,
+    "utterance_id": 2
+  },
+  {
+    "text": "Noooo!!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 63,
+    "utterance_id": 3
+  },
+  {
+    "text": "All right, hang on!",
+    "label": 1,
+    "speaker": "Ursula",
+    "dialogue_id": 63,
+    "utterance_id": 4
+  },
+  {
+    "text": "Hey!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 64,
+    "utterance_id": 0
+  },
+  {
+    "text": "Hi! Hey!",
+    "label": 2,
+    "speaker": "All",
+    "dialogue_id": 64,
+    "utterance_id": 1
+  },
+  {
+    "text": "Do you guys know any cute guys?",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 64,
+    "utterance_id": 2
+  },
+  {
+    "text": "Well, of course I do! My good friend Joey over here.",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 64,
+    "utterance_id": 3
+  },
+  {
+    "text": "Oh, I\u00c2\u0092m sorry. Thank you Chandler.",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 64,
+    "utterance_id": 4
+  },
+  {
+    "text": "Anyway, there\u00c2\u0092s this big charity ball this weekend and Ralph Lauren bought a table, so I kinda have to go",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 64,
+    "utterance_id": 5
+  },
+  {
+    "text": "What\u00c2\u0092s the charity?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 64,
+    "utterance_id": 6
+  },
+  {
+    "text": "I don\u00c2\u0092t know, something either trees or disease\u00c2\u0097Ralph mumbles a lot.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 64,
+    "utterance_id": 7
+  },
+  {
+    "text": "Does Ralph mumble when you\u00c2\u0092re not paying attention?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 64,
+    "utterance_id": 8
+  },
+  {
+    "text": "Yeah! It\u00c2\u0092s weird. But the thing is need to find a date.",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 64,
+    "utterance_id": 9
+  },
+  {
+    "text": "Well, what kind of guy are you looking for?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 64,
+    "utterance_id": 10
+  },
+  {
+    "text": "We should defiantly play football more often. Maybe there\u00c2\u0092s a like league we could join or something.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 65,
+    "utterance_id": 0
+  },
+  {
+    "text": "I guess I set up the video camera to try and entice Joey.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 66,
+    "utterance_id": 0
+  },
+  {
+    "text": "But sadly I could not be enticed.",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 66,
+    "utterance_id": 1
+  },
+  {
+    "text": "Unbelievable! I mean you really kept Joey's underwear?! Why? Why would you do that?!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 66,
+    "utterance_id": 2
+  },
+  {
+    "text": "I'm Monica. I'm disgusting. I stalk guys and keep their underpants.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 66,
+    "utterance_id": 3
+  },
+  {
+    "text": "Well, I think we've all learned something about who's disgusting and who's not.",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 66,
+    "utterance_id": 4
+  },
+  {
+    "text": "Eh?",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 66,
+    "utterance_id": 5
+  },
+  {
+    "text": "All right, now, I'm going to get back to my bucket.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 66,
+    "utterance_id": 6
+  },
+  {
+    "text": "I'm only eating the skin, so the chicken's up for grabs.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 66,
+    "utterance_id": 7
+  },
+  {
+    "text": "Yeah!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 67,
+    "utterance_id": 0
+  },
+  {
+    "text": "I can\u00c2\u0092t say.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 67,
+    "utterance_id": 1
+  },
+  {
+    "text": "Why?!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 67,
+    "utterance_id": 2
+  },
+  {
+    "text": "Why not?",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 67,
+    "utterance_id": 3
+  },
+  {
+    "text": "I can\u00c2\u0092t say because he\u00c2\u0092s famous.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 67,
+    "utterance_id": 4
+  },
+  {
+    "text": "Oh my God, who is it?!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 67,
+    "utterance_id": 5
+  },
+  {
+    "text": "Phoebe, come on, you have to tell us.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 67,
+    "utterance_id": 6
+  },
+  {
+    "text": "Okay, okay. It\u00c2\u0092s James Brolin. James Brolin is the father of my baby.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 67,
+    "utterance_id": 7
+  },
+  {
+    "text": "As in Barbara Streisand\u00c2\u0092s husband James Brolin?",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 67,
+    "utterance_id": 8
+  },
+  {
+    "text": "What?! Well he never said that to me!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 67,
+    "utterance_id": 9
+  },
+  {
+    "text": "Ok, Paulo, why don't you just go get dressed, and then you be on your way, ok, bye-bye.",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 68,
+    "utterance_id": 0
+  },
+  {
+    "text": "Rachel, how did this happen?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 68,
+    "utterance_id": 1
+  },
+  {
+    "text": "I don't know, I just kinda ran into him last night.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 68,
+    "utterance_id": 2
+  },
+  {
+    "text": "Where?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 68,
+    "utterance_id": 3
+  },
+  {
+    "text": "At his apartment. Is this juice?",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 68,
+    "utterance_id": 4
+  },
+  {
+    "text": "Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 68,
+    "utterance_id": 5
+  },
+  {
+    "text": "Oh God, I know I'm a pathetic loser.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 68,
+    "utterance_id": 6
+  },
+  {
+    "text": "Oh-oh, I'm a duck! I go, \"Quack, quack!\" I\u00c2\u0092m happy all the time!",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 69,
+    "utterance_id": 0
+  },
+  {
+    "text": "Nice try.",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 69,
+    "utterance_id": 1
+  },
+  {
+    "text": "Wait, wait, wait!",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 69,
+    "utterance_id": 2
+  },
+  {
+    "text": "Look, Monica",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 69,
+    "utterance_id": 3
+  },
+  {
+    "text": "Look!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 69,
+    "utterance_id": 4
+  },
+  {
+    "text": "This is not going to work.",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 69,
+    "utterance_id": 5
+  },
+  {
+    "text": "I bet this will work!",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 69,
+    "utterance_id": 6
+  },
+  {
+    "text": "You are so great! I love you!",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 69,
+    "utterance_id": 7
+  },
+  {
+    "text": "What?",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 69,
+    "utterance_id": 8
+  },
+  {
+    "text": "Nothing! I said, I said \"You're so great\" and then I just, I just stopped talking!",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 69,
+    "utterance_id": 9
+  },
+  {
+    "text": "You said you loved me! I can't believe this!",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 69,
+    "utterance_id": 10
+  },
+  {
+    "text": "No I didn't!",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 69,
+    "utterance_id": 11
+  },
+  {
+    "text": "Yes, you did!",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 69,
+    "utterance_id": 12
+  },
+  {
+    "text": "No I didn't!",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 69,
+    "utterance_id": 13
+  },
+  {
+    "text": "You love me!",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 69,
+    "utterance_id": 14
+  },
+  {
+    "text": "No I don't! Stop it! Stop it! Stop it! Stop it!",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 69,
+    "utterance_id": 15
+  },
+  {
+    "text": "Hello Greg?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 70,
+    "utterance_id": 0
+  },
+  {
+    "text": "Hi, this is Monica from the plane?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 70,
+    "utterance_id": 1
+  },
+  {
+    "text": "Listen, the number that you gave me 853-5\u00c2\u0085   That is their old number!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 70,
+    "utterance_id": 2
+  },
+  {
+    "text": "Jenny\u00c2\u0092s been giving it out since they moved!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 70,
+    "utterance_id": 3
+  },
+  {
+    "text": "Jenny! That is so Jenny!",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 70,
+    "utterance_id": 4
+  },
+  {
+    "text": "Hey listen umm, how would you like to get together?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 70,
+    "utterance_id": 5
+  },
+  {
+    "text": "Say next Saturday?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 70,
+    "utterance_id": 6
+  },
+  {
+    "text": "Okay, how about Sunday?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 70,
+    "utterance_id": 7
+  },
+  {
+    "text": "Okay umm, the week after that?",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 70,
+    "utterance_id": 8
+  },
+  {
+    "text": "The week after that?",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 70,
+    "utterance_id": 9
+  },
+  {
+    "text": "Y\u00c2\u0092know what Greg?",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 70,
+    "utterance_id": 10
+  },
+  {
+    "text": "We are good, interesting, funny people with",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 70,
+    "utterance_id": 11
+  },
+  {
+    "text": "Oh, it's so romantic to send people off on their honeymoon.",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 71,
+    "utterance_id": 0
+  },
+  {
+    "text": "Y\u00c2\u0092know, Monica and Chandler are married. Ross and Rachel are having a baby. Maybe you and I should do something.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 71,
+    "utterance_id": 1
+  },
+  {
+    "text": "All in good time my love.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 71,
+    "utterance_id": 2
+  },
+  {
+    "text": "All in good time.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 71,
+    "utterance_id": 3
+  },
+  {
+    "text": "Oh shoot!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 71,
+    "utterance_id": 4
+  },
+  {
+    "text": "I left my guitar in their apartment.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 71,
+    "utterance_id": 5
+  },
+  {
+    "text": "Well you can let me in later.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 71,
+    "utterance_id": 6
+  },
+  {
+    "text": "I don\u00c2\u0092t have a key, they took mine to give to you.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 71,
+    "utterance_id": 7
+  },
+  {
+    "text": "What?! They took mine to give to you!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 71,
+    "utterance_id": 8
+  },
+  {
+    "text": "Why would they take away our keys?",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 71,
+    "utterance_id": 9
+  },
+  {
+    "text": "Phoebe!",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 72,
+    "utterance_id": 0
+  },
+  {
+    "text": "Yeah?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 72,
+    "utterance_id": 1
+  },
+  {
+    "text": "Have you seen Chandler?!",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 72,
+    "utterance_id": 2
+  },
+  {
+    "text": "No! Why?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 72,
+    "utterance_id": 3
+  },
+  {
+    "text": "The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 72,
+    "utterance_id": 4
+  },
+  {
+    "text": "I know!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 72,
+    "utterance_id": 5
+  },
+  {
+    "text": "How bad is this?",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 72,
+    "utterance_id": 6
+  },
+  {
+    "text": "Well for the regular guy, it\u00c2\u0092s bad, but Chandler, Oh dear God!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 72,
+    "utterance_id": 7
+  },
+  {
+    "text": "I know! I know! And he totally freaked out and I can\u00c2\u0092t find him anywhere!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 72,
+    "utterance_id": 8
+  },
+  {
+    "text": "What are you gonna do?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 72,
+    "utterance_id": 9
+  },
+  {
+    "text": "Well, I\u00c2\u0092m never gonna listen to you again, that\u00c2\u0092s for sure!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 72,
+    "utterance_id": 10
+  },
+  {
+    "text": "\"Y\u00c2\u0092know, harm can it do if you go and put your name down?\"",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 72,
+    "utterance_id": 11
+  },
+  {
+    "text": "Rachel said that!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 72,
+    "utterance_id": 12
+  },
+  {
+    "text": "Well Rachel\u00c2\u0092s not here!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 72,
+    "utterance_id": 13
+  },
+  {
+    "text": "Oh my God! Chandler just left though!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 73,
+    "utterance_id": 0
+  },
+  {
+    "text": "Yeah but, maybe it\u00c2\u0092s not what we think. Maybe it\u00c2\u0092s tell Monica I\u00c2\u0092m sorry I\u00c2\u0085drank the last of the milk.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 73,
+    "utterance_id": 1
+  },
+  {
+    "text": "Or maybe he-he was writing to tell her that-that he\u00c2\u0092s changed his name, y\u00c2\u0092know? Tell Monica I\u00c2\u0092m sorry.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 73,
+    "utterance_id": 2
+  },
+  {
+    "text": "I think it means he freaked out and left!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 73,
+    "utterance_id": 3
+  },
+  {
+    "text": "Don\u00c2\u0092t be so negative! Good God! Isn\u00c2\u0092t it possible that Sorry is sitting in there  right now?!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 73,
+    "utterance_id": 4
+  },
+  {
+    "text": "Okay. Phoebe, I-I think Ross is right. What are we gonna do?",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 73,
+    "utterance_id": 5
+  },
+  {
+    "text": "Look\u00c2\u0097Okay, I\u00c2\u0092m just gonna\u00c2\u0097I\u00c2\u0092m gonna have to go find him and bring him back!",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 73,
+    "utterance_id": 6
+  },
+  {
+    "text": "Okay?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 73,
+    "utterance_id": 7
+  },
+  {
+    "text": "You-you make sure Monica does not find out, okay?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 73,
+    "utterance_id": 8
+  },
+  {
+    "text": "I will, I will find him.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 73,
+    "utterance_id": 11
+  },
+  {
+    "text": "Come on, come on.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 74,
+    "utterance_id": 0
+  },
+  {
+    "text": "Damnit, damnit, damnit, damnit.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 74,
+    "utterance_id": 1
+  },
+  {
+    "text": "This is all your fault.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 74,
+    "utterance_id": 2
+  },
+  {
+    "text": "This is supposed to be, like, the greatest day of my life, y'know?",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 74,
+    "utterance_id": 3
+  },
+  {
+    "text": "My son is being born, and I should be in there, you know, instead of stuck in a closet with you.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 74,
+    "utterance_id": 4
+  },
+  {
+    "text": "The woman I love is having a baby today. I've been waiting for this just as much as you have.",
+    "label": 0,
+    "speaker": "Susan",
+    "dialogue_id": 74,
+    "utterance_id": 5
+  },
+  {
+    "text": "No no no, believe me.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 74,
+    "utterance_id": 6
+  },
+  {
+    "text": "No one has been waiting for this as much as I have, ok?",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 74,
+    "utterance_id": 7
+  },
+  {
+    "text": "And you know what the funny thing is?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 74,
+    "utterance_id": 8
+  },
+  {
+    "text": "When this day is over, you get to go home with the baby, ok?",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 74,
+    "utterance_id": 9
+  },
+  {
+    "text": "Where does that leave me?",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 74,
+    "utterance_id": 10
+  },
+  {
+    "text": "You get to be the baby's father.",
+    "label": 1,
+    "speaker": "Susan",
+    "dialogue_id": 74,
+    "utterance_id": 11
+  },
+  {
+    "text": "Everyone knows who you are.",
+    "label": 1,
+    "speaker": "Susan",
+    "dialogue_id": 74,
+    "utterance_id": 12
+  },
+  {
+    "text": "Who am I?",
+    "label": 0,
+    "speaker": "Susan",
+    "dialogue_id": 74,
+    "utterance_id": 13
+  },
+  {
+    "text": "There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.",
+    "label": 0,
+    "speaker": "Susan",
+    "dialogue_id": 74,
+    "utterance_id": 14
+  },
+  {
+    "text": "Every day is Lesbian Lover Day.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 74,
+    "utterance_id": 15
+  },
+  {
+    "text": "This is so great.",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 74,
+    "utterance_id": 16
+  },
+  {
+    "text": "You wanna explain that?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 74,
+    "utterance_id": 17
+  },
+  {
+    "text": "I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 74,
+    "utterance_id": 18
+  },
+  {
+    "text": "And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most.",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 74,
+    "utterance_id": 19
+  },
+  {
+    "text": "And it's not even born yet.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 74,
+    "utterance_id": 20
+  },
+  {
+    "text": "It's just, it's just the luckiest baby in the whole world.",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 74,
+    "utterance_id": 21
+  },
+  {
+    "text": "I'm sorry, you were fighting.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 74,
+    "utterance_id": 22
+  },
+  {
+    "text": "Wow! It looks like we got a lot of good stuff.",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 75,
+    "utterance_id": 0
+  },
+  {
+    "text": "Oh we did, but my mom got us the greatest gift of all.",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 75,
+    "utterance_id": 1
+  },
+  {
+    "text": "A",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 75,
+    "utterance_id": 2
+  },
+  {
+    "text": "No. She\u00c2\u0092s going to live with us for eight weeks.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 75,
+    "utterance_id": 3
+  },
+  {
+    "text": "Uh, what?",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 75,
+    "utterance_id": 4
+  },
+  {
+    "text": "Yes! She\u00c2\u0092s gonna help us take care of the baby! Woo-hoo.",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 75,
+    "utterance_id": 5
+  },
+  {
+    "text": "What\u00c2\u0097You\u00c2\u0092re not serious.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 75,
+    "utterance_id": 6
+  },
+  {
+    "text": "I mean she\u00c2\u0092s a very nice woman, but there is no way we can take eight weeks of her.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 75,
+    "utterance_id": 7
+  },
+  {
+    "text": "She\u00c2\u0092ll drive us totally crazy.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 75,
+    "utterance_id": 8
+  },
+  {
+    "text": "Hi Ross!",
+    "label": 2,
+    "speaker": "Mrs. Green",
+    "dialogue_id": 75,
+    "utterance_id": 9
+  },
+  {
+    "text": "Hi roomie!",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 75,
+    "utterance_id": 10
+  },
+  {
+    "text": "Hey Chandler! Y\u00c2\u0092know that girl you went to college with who-who became a movie director?",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 76,
+    "utterance_id": 0
+  },
+  {
+    "text": "Oh yeah, Dana Keystone. She was in my Movement class.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 76,
+    "utterance_id": 1
+  },
+  {
+    "text": "What\u00c2\u0092s a Movement class?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 76,
+    "utterance_id": 2
+  },
+  {
+    "text": "It\u00c2\u0092s Chandler\u00c2\u0092s way of pretending he didn\u00c2\u0092t take mime.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 76,
+    "utterance_id": 3
+  },
+  {
+    "text": "Oh well listen, anyway she\u00c2\u0092s directing the new Al Pacino movie. You gotta get me an audition!",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 76,
+    "utterance_id": 4
+  },
+  {
+    "text": "Oh, I don\u00c2\u0092t know man. I haven\u00c2\u0092t talked to her in like ten years.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 76,
+    "utterance_id": 5
+  },
+  {
+    "text": "Nooo Way! The most romantic song ever is",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 77,
+    "utterance_id": 0
+  },
+  {
+    "text": "See, I-I think that one that Elton John wrote for, um, that guy on",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 77,
+    "utterance_id": 1
+  },
+  {
+    "text": "What song was that, Pheebs?",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 77,
+    "utterance_id": 2
+  },
+  {
+    "text": "Hi Monica!",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 77,
+    "utterance_id": 3
+  },
+  {
+    "text": "Hey Mon!",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 77,
+    "utterance_id": 4
+  },
+  {
+    "text": "Hey Mon!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 77,
+    "utterance_id": 5
+  },
+  {
+    "text": "Oh my God, has she slept at all?",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 77,
+    "utterance_id": 6
+  },
+  {
+    "text": "Nope.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 77,
+    "utterance_id": 7
+  },
+  {
+    "text": "No, it's been three nights in a row.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 77,
+    "utterance_id": 8
+  },
+  {
+    "text": "Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 77,
+    "utterance_id": 9
+  },
+  {
+    "text": "Oh, okay that explains it.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 77,
+    "utterance_id": 10
+  },
+  {
+    "text": "I got a call at two in the morning, but all I could hear was, like, this high squeaky sound, so I thought okay its like a mouse or a opossum.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 77,
+    "utterance_id": 11
+  },
+  {
+    "text": "But then I realized where would a mouse or a opossum get the money to make the phone call.",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 77,
+    "utterance_id": 12
+  },
+  {
+    "text": "Wendy, we had a deal!  Yeah, you promised! Wendy! Wendy! Wendy!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 78,
+    "utterance_id": 0
+  },
+  {
+    "text": "Who was that?",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 78,
+    "utterance_id": 1
+  },
+  {
+    "text": "Wendy bailed. I have no waitress.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 78,
+    "utterance_id": 2
+  },
+  {
+    "text": "Oh... that's too bad. Bye bye.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 78,
+    "utterance_id": 3
+  },
+  {
+    "text": "Ten dollars an hour.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 78,
+    "utterance_id": 4
+  },
+  {
+    "text": "No.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 78,
+    "utterance_id": 5
+  },
+  {
+    "text": "Twelve dollars an hour.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 78,
+    "utterance_id": 6
+  },
+  {
+    "text": "Mon. I wish I could, but I've made plans to walk around.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 78,
+    "utterance_id": 7
+  },
+  {
+    "text": "You know, Rachel, when you ran out of your wedding, I was there for you.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 78,
+    "utterance_id": 8
+  },
+  {
+    "text": "I put a roof over your head, and if that means nothing to you...  twenty dollars an hour.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 78,
+    "utterance_id": 9
+  },
+  {
+    "text": "Done.",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 78,
+    "utterance_id": 10
+  },
+  {
+    "text": "I thought I was a complete idiot.",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 79,
+    "utterance_id": 0
+  },
+  {
+    "text": "Hey, I\u00c2\u0092m with you. He even asked me if I thought you\u00c2\u0092d go out with him.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 79,
+    "utterance_id": 1
+  },
+  {
+    "text": "Oh! Oh, I think I\u00c2\u0092m gonna throw up a little bit. What did you say?",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 79,
+    "utterance_id": 2
+  },
+  {
+    "text": "I said no.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 79,
+    "utterance_id": 3
+  },
+  {
+    "text": "What?!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 79,
+    "utterance_id": 4
+  },
+  {
+    "text": "What? I\u00c2\u0085I just figured since you\u00c2\u0092re pregnant you\u00c2\u0092re not gonna be seeing people.",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 79,
+    "utterance_id": 5
+  },
+  {
+    "text": "Okay Joey, first of all Kash Ford is not people. Second of all, what did he say when you told him I was pregnant?",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 79,
+    "utterance_id": 6
+  },
+  {
+    "text": "I didn\u00c2\u0092t tell him. I didn\u00c2\u0092t know if you were telling people. This is back when I thought Kash was still people.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 79,
+    "utterance_id": 7
+  },
+  {
+    "text": "Good-good, don\u00c2\u0092t tell him. Don\u00c2\u0092t tell him. Just have him call me okay?",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 79,
+    "utterance_id": 8
+  },
+  {
+    "text": "Rach look, I really don\u00c2\u0092t think that\u00c2\u0092s such a great",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 79,
+    "utterance_id": 9
+  },
+  {
+    "text": "Okay, you go do it! I\u00c2\u0092ll come back to that set! I\u00c2\u0092ll meet more actors! I\u00c2\u0092ll meet \u00c2\u0091em all!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 79,
+    "utterance_id": 10
+  },
+  {
+    "text": "Hey. Call me when you get there. Okay?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 80,
+    "utterance_id": 0
+  },
+  {
+    "text": "Okay.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 80,
+    "utterance_id": 1
+  },
+  {
+    "text": "I guess so.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 81,
+    "utterance_id": 0
+  },
+  {
+    "text": "Here you go. Thank you!",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 81,
+    "utterance_id": 1
+  },
+  {
+    "text": "Wait, Rach! Where's the other one?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 81,
+    "utterance_id": 2
+  },
+  {
+    "text": "Oh what, you-you want both of them?",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 81,
+    "utterance_id": 3
+  },
+  {
+    "text": "Rachel Karen Green, where's the other earring?!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 81,
+    "utterance_id": 4
+  },
+  {
+    "text": "Okay, okay, okay, look, just don't freak out, but I kinda lost it.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 81,
+    "utterance_id": 5
+  },
+  {
+    "text": "I know it's in the apartment, but I",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 81,
+    "utterance_id": 6
+  },
+  {
+    "text": "Well, what am I going to tell Monica? She wants to wear them tonight!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 81,
+    "utterance_id": 7
+  },
+  {
+    "text": "Tell her to wear her own earrings.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 81,
+    "utterance_id": 8
+  },
+  {
+    "text": "These",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 81,
+    "utterance_id": 9
+  },
+  {
+    "text": "Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 81,
+    "utterance_id": 10
+  },
+  {
+    "text": "Why not?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 81,
+    "utterance_id": 11
+  },
+  {
+    "text": "Because I lose her stuff!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 81,
+    "utterance_id": 12
+  },
+  {
+    "text": "Alright. Phoebe?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 82,
+    "utterance_id": 0
+  },
+  {
+    "text": "Okay, okay.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 82,
+    "utterance_id": 1
+  },
+  {
+    "text": "If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 82,
+    "utterance_id": 2
+  },
+  {
+    "text": "Yeah, see.. you took mine. Chandler, what about you?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 82,
+    "utterance_id": 3
+  },
+  {
+    "text": "Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 82,
+    "utterance_id": 4
+  },
+  {
+    "text": "See, there's always one guy.  \"If I had a wish, I'd wish for three more wishes.\"",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 82,
+    "utterance_id": 5
+  },
+  {
+    "text": "Hey Joey. Hi. Hey, buddy.",
+    "label": 1,
+    "speaker": "All",
+    "dialogue_id": 82,
+    "utterance_id": 6
+  },
+  {
+    "text": "Hey, Joey, what would you do if you were omnipotent?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 82,
+    "utterance_id": 7
+  },
+  {
+    "text": "Probably kill myself!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 82,
+    "utterance_id": 8
+  },
+  {
+    "text": "..Excuse me?",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 82,
+    "utterance_id": 9
+  },
+  {
+    "text": "Hey, if Little Joey's dead, then I got no reason to live!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 82,
+    "utterance_id": 10
+  },
+  {
+    "text": "Joey, uh-",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 82,
+    "utterance_id": 11
+  },
+  {
+    "text": "You",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 82,
+    "utterance_id": 12
+  },
+  {
+    "text": "So uh, man, are you gonna go to the play with me tonight?",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 83,
+    "utterance_id": 0
+  },
+  {
+    "text": "Y\u00c2\u0092know what, I don\u00c2\u0092t know how comfortable I am going to see how hot the sex is between some guy and your girlfriend.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 83,
+    "utterance_id": 1
+  },
+  {
+    "text": "Yeah, I know but",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 83,
+    "utterance_id": 2
+  },
+  {
+    "text": "Oh no-no-no, I\u00c2\u0092m there.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 83,
+    "utterance_id": 3
+  },
+  {
+    "text": "Hey!",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 83,
+    "utterance_id": 4
+  },
+  {
+    "text": "Hey Mon! Want some pancakes?",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 83,
+    "utterance_id": 5
+  },
+  {
+    "text": "You made pancakes?",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 83,
+    "utterance_id": 6
+  },
+  {
+    "text": "Yep! Grab a plate.",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 83,
+    "utterance_id": 7
+  },
+  {
+    "text": "No-no, stay right there.  Gettin\u00c2\u0092 closer.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 83,
+    "utterance_id": 8
+  },
+  {
+    "text": "Okay, okay, but don\u00c2\u0092t worry, because we also have cereals, muffins, waffles,",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 83,
+    "utterance_id": 9
+  },
+  {
+    "text": "Listen also we\u00c2\u0092re uh, we\u00c2\u0092re watching the game here Saturday night, if people want to come over.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 83,
+    "utterance_id": 10
+  },
+  {
+    "text": "Oh yeah!",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 83,
+    "utterance_id": 11
+  },
+  {
+    "text": "Oh, did I not mention? Carl is a guy I hired to be my identical twin for a medical research project.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 84,
+    "utterance_id": 0
+  },
+  {
+    "text": "Y\u00c2\u0092know sometimes the good ideas are just right in front of you, aren\u00c2\u0092t they?",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 84,
+    "utterance_id": 1
+  },
+  {
+    "text": "Okay, I know it sounds crazy, but I think it might work. Y\u00c2\u0092know? The only problem is, Carl\u00c2\u0092s acting is",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 84,
+    "utterance_id": 2
+  },
+  {
+    "text": "The",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 84,
+    "utterance_id": 3
+  },
+  {
+    "text": "Yeah, he\u00c2\u0092s the reason I didn\u00c2\u0092t get that big",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 84,
+    "utterance_id": 4
+  },
+  {
+    "text": "Hey, uh can I get a little piece of that cake?",
+    "label": 1,
+    "speaker": "Carl",
+    "dialogue_id": 84,
+    "utterance_id": 5
+  },
+  {
+    "text": "Pizza!! We like Pizza!! Get out!!!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 84,
+    "utterance_id": 6
+  },
+  {
+    "text": "Oh!",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 85,
+    "utterance_id": 0
+  },
+  {
+    "text": "Look at Emma!",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 85,
+    "utterance_id": 1
+  },
+  {
+    "text": "I just can\u00c2\u0092t decide who she looks more alike, you or Rachel?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 85,
+    "utterance_id": 2
+  },
+  {
+    "text": "Oh what are you kidding? She\u00c2\u0092s gorgeous, it\u00c2\u0092s all Rachel.",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 85,
+    "utterance_id": 3
+  },
+  {
+    "text": "I\u00c2\u0092m sorry, for the last time, why aren\u00c2\u0092t you two together again?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 85,
+    "utterance_id": 4
+  },
+  {
+    "text": "No, I know.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 85,
+    "utterance_id": 5
+  },
+  {
+    "text": "I know, because you\u00c2\u0092re not in that place.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 85,
+    "utterance_id": 6
+  },
+  {
+    "text": "Which would be fine, except you totally are.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 85,
+    "utterance_id": 7
+  },
+  {
+    "text": "It\u00c2\u0092s\u00c2\u0085it\u00c2\u0092s complicated okay?",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 85,
+    "utterance_id": 8
+  },
+  {
+    "text": "Yeah that\u00c2\u0092s true. Yeah, you love her. You always have. You have a child together. There is no right answer.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 85,
+    "utterance_id": 9
+  },
+  {
+    "text": "Look, we\u00c2\u0092ve been together.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 85,
+    "utterance_id": 10
+  },
+  {
+    "text": "Okay?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 85,
+    "utterance_id": 11
+  },
+  {
+    "text": "And then apart, and then together, and then apart, and now we have a baby.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 85,
+    "utterance_id": 12
+  },
+  {
+    "text": "It\u00c2\u0092s just if-if we got together again and it didn\u00c2\u0092t work out\u00c2\u0085I could never do that to Emma.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 85,
+    "utterance_id": 13
+  },
+  {
+    "text": "I mean she-she thinking everything\u00c2\u0097 Oh that\u00c2\u0092s\u00c2\u0085now me.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 85,
+    "utterance_id": 14
+  },
+  {
+    "text": "What do they put something in the water in this place?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 85,
+    "utterance_id": 15
+  },
+  {
+    "text": "Since Rachel and I we\u00c2\u0092re doing really, we\u00c2\u0092re doing really well right now.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 85,
+    "utterance_id": 16
+  },
+  {
+    "text": "I know. I know. I know. I know, and if you try to make it more you might wreck it.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 85,
+    "utterance_id": 17
+  },
+  {
+    "text": "Yeah, exactly.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 85,
+    "utterance_id": 18
+  },
+  {
+    "text": "Right.  Or you might get everything you\u00c2\u0092ve wanted since you were fifteen.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 85,
+    "utterance_id": 19
+  },
+  {
+    "text": "Okay, it's a typical New York City apartment. Two girls are just hanging out.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 86,
+    "utterance_id": 0
+  },
+  {
+    "text": "Hi, how are you doing Kelly?",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 86,
+    "utterance_id": 1
+  },
+  {
+    "text": "I'm doing just fine! God, Tiffany, you smell so great!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 86,
+    "utterance_id": 2
+  },
+  {
+    "text": "It's my new perfume. Why don't you come closer where you can",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 86,
+    "utterance_id": 3
+  },
+  {
+    "text": "Oh, y'know Joey, you are sick!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 86,
+    "utterance_id": 4
+  },
+  {
+    "text": "This is disgusting!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 86,
+    "utterance_id": 5
+  },
+  {
+    "text": "I'm not reading this!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 86,
+    "utterance_id": 6
+  },
+  {
+    "text": "What?! Wait-wait-wait! The handsome man was about to enter!!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 86,
+    "utterance_id": 7
+  },
+  {
+    "text": "Well, what?",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 87,
+    "utterance_id": 0
+  },
+  {
+    "text": "What?",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 87,
+    "utterance_id": 1
+  },
+  {
+    "text": "What is it?",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 87,
+    "utterance_id": 2
+  },
+  {
+    "text": "That she left you?",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 87,
+    "utterance_id": 3
+  },
+  {
+    "text": "That she likes women?",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 87,
+    "utterance_id": 4
+  },
+  {
+    "text": "That she left you for another woman that likes women?",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 87,
+    "utterance_id": 5
+  },
+  {
+    "text": "Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 87,
+    "utterance_id": 6
+  },
+  {
+    "text": "Then what?",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 87,
+    "utterance_id": 7
+  },
+  {
+    "text": "My first time with Carol was...",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 87,
+    "utterance_id": 8
+  },
+  {
+    "text": "What?",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 87,
+    "utterance_id": 9
+  },
+  {
+    "text": "It was my",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 87,
+    "utterance_id": 10
+  },
+  {
+    "text": "With Carol?  Oh.",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 87,
+    "utterance_id": 11
+  },
+  {
+    "text": "So in your whole life, you've only been with one\u00c2\u0097\u00c2\u0097oh.",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 87,
+    "utterance_id": 12
+  },
+  {
+    "text": "Whoah, boy, hockey was a big mistake! There was a whole bunch of stuff we could've done tonight!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 87,
+    "utterance_id": 13
+  },
+  {
+    "text": "Hey, guys, guys, did you see my new, china cabinet?!",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 88,
+    "utterance_id": 0
+  },
+  {
+    "text": "Uh-huh.",
+    "label": 1,
+    "speaker": "Ross and Rachel",
+    "dialogue_id": 88,
+    "utterance_id": 1
+  },
+  {
+    "text": "Watch, watch.",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 88,
+    "utterance_id": 2
+  },
+  {
+    "text": "Ooohhhh!!",
+    "label": 2,
+    "speaker": "Ross and Rachel",
+    "dialogue_id": 88,
+    "utterance_id": 3
+  },
+  {
+    "text": "And, and!",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 88,
+    "utterance_id": 4
+  },
+  {
+    "text": "Ahhhh!!",
+    "label": 2,
+    "speaker": "Ross and Rachel",
+    "dialogue_id": 88,
+    "utterance_id": 5
+  },
+  {
+    "text": "Hey, my Father\u00c2\u0092s house does that!",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 88,
+    "utterance_id": 6
+  },
+  {
+    "text": "O-o-o-okay, how did it go? Tell me everything.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 88,
+    "utterance_id": 7
+  },
+  {
+    "text": "Well, the movie was great, dinner was great, and there\u00c2\u0092s nothing like a cool, crisp New York evening.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 88,
+    "utterance_id": 8
+  },
+  {
+    "text": "All right, I'll give you this, Mr. Peanut is a better dresser.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 89,
+    "utterance_id": 0
+  },
+  {
+    "text": "I mean he's got the monocle, he's got the top hat...",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 89,
+    "utterance_id": 1
+  },
+  {
+    "text": "You know he's gay?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 89,
+    "utterance_id": 2
+  },
+  {
+    "text": "I just wanna clarify this: are you outing Mr. Peanut?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 89,
+    "utterance_id": 3
+  },
+  {
+    "text": "Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 89,
+    "utterance_id": 4
+  },
+  {
+    "text": "Hi. Hi.",
+    "label": 1,
+    "speaker": "All",
+    "dialogue_id": 89,
+    "utterance_id": 5
+  },
+  {
+    "text": "What are you doing here?",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 89,
+    "utterance_id": 6
+  },
+  {
+    "text": "Hi. Where is everybody?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 90,
+    "utterance_id": 0
+  },
+  {
+    "text": "Oh, it\u00c2\u0092s already closed, Chris gave me the keys to lock up-what is wrong?",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 90,
+    "utterance_id": 1
+  },
+  {
+    "text": "My marriage, I think my marriage is um, is kinda over.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 90,
+    "utterance_id": 2
+  },
+  {
+    "text": "Oh no! Why?",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 90,
+    "utterance_id": 3
+  },
+  {
+    "text": "\u00c2\u0091Cause Carol\u00c2\u0092s a lesbian.  And, and I\u00c2\u0092m not one. And apparently it\u00c2\u0092s not a mix and match situation.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 90,
+    "utterance_id": 4
+  },
+  {
+    "text": "Oh my God! I don\u00c2\u0092t believe it! Oh, you poor bunny.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 90,
+    "utterance_id": 5
+  },
+  {
+    "text": "I\u00c2\u0092m an idiot.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 90,
+    "utterance_id": 6
+  },
+  {
+    "text": "I mean shoulda seen it, I mean Carol and I\u00c2\u0092d be out and she\u00c2\u0092d, she\u00c2\u0092d see some beautiful woman, and, and she\u00c2\u0092d be Ross y'know look at her, and I\u00c2\u0092d think, God, my wife is cool!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 90,
+    "utterance_id": 7
+  },
+  {
+    "text": "Aw! Hey, do you think that Susan person is her lover?",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 90,
+    "utterance_id": 8
+  },
+  {
+    "text": "Well, now I do!!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 90,
+    "utterance_id": 9
+  },
+  {
+    "text": "I\u00c2\u0092m sorry.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 90,
+    "utterance_id": 10
+  },
+  {
+    "text": "Seven years.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 90,
+    "utterance_id": 11
+  },
+  {
+    "text": "I mean we\u00c2\u0092ve been together seven years, she\u00c2\u0092s the only woman who\u00c2\u0092s ever loved me, and the only woman I\u00c2\u0092ve-I\u00c2\u0092ve ever....",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 90,
+    "utterance_id": 12
+  },
+  {
+    "text": "Aw, God Ross. Oh.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 90,
+    "utterance_id": 13
+  },
+  {
+    "text": "Joey, onstage!",
+    "label": 0,
+    "speaker": "Stage Manager",
+    "dialogue_id": 91,
+    "utterance_id": 0
+  },
+  {
+    "text": "Well can you at least stay to the end of the play?",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 91,
+    "utterance_id": 1
+  },
+  {
+    "text": "I mean, I\u00c2\u0092ll go to the airport with ya, I-I wanna say good bye.",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 91,
+    "utterance_id": 2
+  },
+  {
+    "text": "Where are you Vic?",
+    "label": 1,
+    "speaker": "Lauren",
+    "dialogue_id": 91,
+    "utterance_id": 3
+  },
+  {
+    "text": "Flight\u00c2\u0092s in an hour. I-I gotta go.",
+    "label": 0,
+    "speaker": "Kate",
+    "dialogue_id": 91,
+    "utterance_id": 4
+  },
+  {
+    "text": "Vic! Vic!",
+    "label": 0,
+    "speaker": "Lauren",
+    "dialogue_id": 91,
+    "utterance_id": 5
+  },
+  {
+    "text": "In a minute!!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 91,
+    "utterance_id": 6
+  },
+  {
+    "text": "So this is it? Victor?",
+    "label": 0,
+    "speaker": "Lauren",
+    "dialogue_id": 91,
+    "utterance_id": 7
+  },
+  {
+    "text": "Yeah, I guess it is.",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 91,
+    "utterance_id": 8
+  },
+  {
+    "text": "Listen, I ah, I gotta say good bye, and-and I gotta say it quick \u00c2\u0091cause this is killing me.",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 91,
+    "utterance_id": 9
+  },
+  {
+    "text": "One thing you gotta know, is that I will never forget you.",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 91,
+    "utterance_id": 10
+  },
+  {
+    "text": "But, you\u00c2\u0092ve got things you have to do now, and so do I.",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 91,
+    "utterance_id": 11
+  },
+  {
+    "text": "And so\u00c2\u0085 I\u00c2\u0092m gonna get on this spaceship,  and I\u00c2\u0092m gonna go to Blargon 7 in search of alternative fuels.",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 91,
+    "utterance_id": 12
+  },
+  {
+    "text": "But when I return, 200 years from now, you\u00c2\u0092ll be long gone.",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 91,
+    "utterance_id": 13
+  },
+  {
+    "text": "But I won\u00c2\u0092t have aged at all.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 91,
+    "utterance_id": 14
+  },
+  {
+    "text": "So you tell your great-great-granddaughter to look me up, because Adrienne, baby, I\u00c2\u0092m gonna want to meet her.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 91,
+    "utterance_id": 15
+  },
+  {
+    "text": "So long, Vic!",
+    "label": 0,
+    "speaker": "Lauren",
+    "dialogue_id": 91,
+    "utterance_id": 16
+  },
+  {
+    "text": "Thank you.  Oh Joey and look at this crib! It\u00c2\u0092s so cute!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 92,
+    "utterance_id": 0
+  },
+  {
+    "text": "I know! I found it on the street.",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 92,
+    "utterance_id": 1
+  },
+  {
+    "text": "Are you serious\u00c2\u0097Really?! It\u00c2\u0092s in such good condition.",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 92,
+    "utterance_id": 2
+  },
+  {
+    "text": "Yeah.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 92,
+    "utterance_id": 3
+  },
+  {
+    "text": "Wow! Whoa-whoa what\u00c2\u0092s under the covers?",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 92,
+    "utterance_id": 4
+  },
+  {
+    "text": "I don\u00c2\u0092t know.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 92,
+    "utterance_id": 5
+  },
+  {
+    "text": "It\u00c2\u0092s moving.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 92,
+    "utterance_id": 6
+  },
+  {
+    "text": "Ew.",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 92,
+    "utterance_id": 7
+  },
+  {
+    "text": "It\u00c2\u0092s still\u00c2\u0097\u00c2\u0097It\u00c2\u0092s got a tail! Get it out of here! Get it out of here!!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 92,
+    "utterance_id": 8
+  },
+  {
+    "text": "Ooh! Ah! Okay!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 92,
+    "utterance_id": 9
+  },
+  {
+    "text": "You wanted to see me Professor Geller?",
+    "label": 2,
+    "speaker": "Elizabeth",
+    "dialogue_id": 93,
+    "utterance_id": 0
+  },
+  {
+    "text": "Yes. Yes! Please, come in.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 93,
+    "utterance_id": 1
+  },
+  {
+    "text": "Oo-oo!",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 93,
+    "utterance_id": 2
+  },
+  {
+    "text": "Of course the packaging does appeal to grown-ups and kids alike.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 94,
+    "utterance_id": 0
+  },
+  {
+    "text": "Ross, you're being silly. I've tried it, it's no big deal. Just taste it.",
+    "label": 2,
+    "speaker": "Carol",
+    "dialogue_id": 94,
+    "utterance_id": 1
+  },
+  {
+    "text": "That would be no.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 94,
+    "utterance_id": 2
+  },
+  {
+    "text": "Come on. It doesn't taste bad.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 94,
+    "utterance_id": 3
+  },
+  {
+    "text": "Yeah, it's kinda sweet, sorta like, uh...",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 94,
+    "utterance_id": 4
+  },
+  {
+    "text": "Cantaloupe juice.",
+    "label": 2,
+    "speaker": "Susan",
+    "dialogue_id": 94,
+    "utterance_id": 5
+  },
+  {
+    "text": "Exactly.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 94,
+    "utterance_id": 6
+  },
+  {
+    "text": "You've tasted it? You've tasted it.",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 94,
+    "utterance_id": 7
+  },
+  {
+    "text": "Uh huh.",
+    "label": 1,
+    "speaker": "Susan",
+    "dialogue_id": 94,
+    "utterance_id": 8
+  },
+  {
+    "text": "Oh, you've tasted it.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 94,
+    "utterance_id": 9
+  },
+  {
+    "text": "You can keep saying it, but it won't stop being true.",
+    "label": 1,
+    "speaker": "Susan",
+    "dialogue_id": 94,
+    "utterance_id": 10
+  },
+  {
+    "text": "Gimme the bottle.  Gimme the towel.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 94,
+    "utterance_id": 11
+  },
+  {
+    "text": "All right, I just got changed in thirty seconds so you can be alone with him. You'd better go for it.",
+    "label": 0,
+    "speaker": "Jeannine",
+    "dialogue_id": 95,
+    "utterance_id": 0
+  },
+  {
+    "text": "Please, I'm not going for anything.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 95,
+    "utterance_id": 1
+  },
+  {
+    "text": "Well, if you don't, I will.",
+    "label": 0,
+    "speaker": "Jeannine",
+    "dialogue_id": 95,
+    "utterance_id": 2
+  },
+  {
+    "text": "Would you please go?",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 95,
+    "utterance_id": 3
+  },
+  {
+    "text": "I would!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 95,
+    "utterance_id": 4
+  },
+  {
+    "text": "I promise.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 96,
+    "utterance_id": 0
+  },
+  {
+    "text": "Although, don\u00c2\u0092t feel like you can\u00c2\u0092t visit.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 96,
+    "utterance_id": 1
+  },
+  {
+    "text": "Hey, is, is, is Chandler here?",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 96,
+    "utterance_id": 2
+  },
+  {
+    "text": "No, no he\u00c2\u0092s not.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 96,
+    "utterance_id": 3
+  },
+  {
+    "text": "You guys, Joey just saw Janice kissing her ex-husband.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 96,
+    "utterance_id": 4
+  },
+  {
+    "text": "What?  So what are you going to do? I mean how, how are you going to tell Chandler?",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 96,
+    "utterance_id": 5
+  },
+  {
+    "text": "Well, I was thinking about that and I, I think the best way would be, to not.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 96,
+    "utterance_id": 6
+  },
+  {
+    "text": "Joey, you can\u00c2\u0092t keep this to yourself, if you know about this, you have to tell him.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 96,
+    "utterance_id": 7
+  },
+  {
+    "text": "It\u00c2\u0092ll kill him. I mean it\u00c2\u0092ll, it\u00c2\u0092ll just kill him.",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 96,
+    "utterance_id": 8
+  },
+  {
+    "text": "Well, you could wait \u00c2\u0091til I go to the dentist, maybe",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 96,
+    "utterance_id": 9
+  },
+  {
+    "text": "Ohh, here you are. I was looking for you before. Joshua\u00c2\u0092s gone so you and Emily are free to go.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 97,
+    "utterance_id": 0
+  },
+  {
+    "text": "That\u00c2\u0092s okay.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 97,
+    "utterance_id": 1
+  },
+  {
+    "text": "She\u00c2\u0092s still in there enjoying her fake party and uh, it\u00c2\u0092s too late to do any of the things I had planned, so",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 97,
+    "utterance_id": 2
+  },
+  {
+    "text": "Why isn\u00c2\u0092t that valet back with my Porsche?",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 98,
+    "utterance_id": 0
+  },
+  {
+    "text": "Maybe because you\u00c2\u0092ve got the keys?",
+    "label": 0,
+    "speaker": "Passerby",
+    "dialogue_id": 98,
+    "utterance_id": 1
+  },
+  {
+    "text": "This is totally your fault!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 98,
+    "utterance_id": 2
+  },
+  {
+    "text": "My fault?! You threatened the judge!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 98,
+    "utterance_id": 3
+  },
+  {
+    "text": "Well, you ripped the paper out of the court reporter\u00c2\u0092s machine!!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 98,
+    "utterance_id": 4
+  },
+  {
+    "text": "Oh! Here it is!  Ooh, Joey! Why did you sign it, \"Son of a bitch?\"",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 99,
+    "utterance_id": 0
+  },
+  {
+    "text": "I didn\u00c2\u0092t do that! Who would\u00c2\u0092ve done that?!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 99,
+    "utterance_id": 1
+  },
+  {
+    "text": "Son of a bitch!",
+    "label": 0,
+    "speaker": "The Dry Cleaner",
+    "dialogue_id": 99,
+    "utterance_id": 2
+  },
+  {
+    "text": "Okay, maybe ask this guy.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 99,
+    "utterance_id": 3
+  },
+  {
+    "text": "I can't believe that Ross is gone. It is just so sad.",
+    "label": 0,
+    "speaker": "Kori",
+    "dialogue_id": 100,
+    "utterance_id": 0
+  },
+  {
+    "text": "I didn't know Ross and you were so close.",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 100,
+    "utterance_id": 1
+  },
+  {
+    "text": "We weren't but we had one class together. He was such a great    guy and he talked so passionately about science. I always remembered him.",
+    "label": 0,
+    "speaker": "Kori",
+    "dialogue_id": 100,
+    "utterance_id": 2
+  },
+  {
+    "text": "I'm sure that would mean a lot to him.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 100,
+    "utterance_id": 3
+  },
+  {
+    "text": "And if heaven has a    door, I'm sure he's pressing his ear up against it and listening intently.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 100,
+    "utterance_id": 4
+  },
+  {
+    "text": "I thought so many times about calling him and asking him out.    I guess I really missed my chance.",
+    "label": 0,
+    "speaker": "Kori",
+    "dialogue_id": 100,
+    "utterance_id": 5
+  },
+  {
+    "text": "But you didn't!",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 100,
+    "utterance_id": 6
+  },
+  {
+    "text": "I'm still alive!!",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 100,
+    "utterance_id": 7
+  },
+  {
+    "text": "Kori, I know this is a big surprise for you.",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 100,
+    "utterance_id": 8
+  },
+  {
+    "text": "It's a long story but the things    you just said really made my day!",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 100,
+    "utterance_id": 9
+  },
+  {
+    "text": "I mean, the fact that you are here means more    to me than if this room were filled with people!",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 100,
+    "utterance_id": 10
+  },
+  {
+    "text": "You sick freak, who does that? I can't believe I had a crush on    you!",
+    "label": 0,
+    "speaker": "Kori",
+    "dialogue_id": 100,
+    "utterance_id": 11
+  },
+  {
+    "text": "Did you hear that? Kori Weston had a crush on me!!",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 100,
+    "utterance_id": 12
+  },
+  {
+    "text": "We\u00c2\u0092ll do a quick check.",
+    "label": 1,
+    "speaker": "Dr. Long",
+    "dialogue_id": 101,
+    "utterance_id": 0
+  },
+  {
+    "text": "Okay.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 101,
+    "utterance_id": 1
+  },
+  {
+    "text": "So, eight days late huh?",
+    "label": 2,
+    "speaker": "Dr. Long",
+    "dialogue_id": 101,
+    "utterance_id": 2
+  },
+  {
+    "text": "Yeah.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 101,
+    "utterance_id": 3
+  },
+  {
+    "text": "You must be a little uncomfortable.",
+    "label": 1,
+    "speaker": "Dr. Long",
+    "dialogue_id": 101,
+    "utterance_id": 4
+  },
+  {
+    "text": "Eh, just a tad.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 101,
+    "utterance_id": 5
+  },
+  {
+    "text": "You\u00c2\u0092re about 80 percent effaced, so you\u00c2\u0092re on your way.",
+    "label": 1,
+    "speaker": "Dr. Long",
+    "dialogue_id": 101,
+    "utterance_id": 6
+  },
+  {
+    "text": "It still could last a little while longer.",
+    "label": 1,
+    "speaker": "Dr. Long",
+    "dialogue_id": 101,
+    "utterance_id": 7
+  },
+  {
+    "text": "If you\u00c2\u0092re anxious there are a few ways to help things along.",
+    "label": 1,
+    "speaker": "Dr. Long",
+    "dialogue_id": 101,
+    "utterance_id": 8
+  },
+  {
+    "text": "Do them!!",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 101,
+    "utterance_id": 9
+  },
+  {
+    "text": "Actually, they\u00c2\u0092re things you can do. Just some home remedies, but in my experience I\u00c2\u0092ve found that some of them are quite effective.",
+    "label": 1,
+    "speaker": "Dr. Long",
+    "dialogue_id": 101,
+    "utterance_id": 10
+  },
+  {
+    "text": "Well, we are ready to try anything.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 101,
+    "utterance_id": 11
+  },
+  {
+    "text": "Okay, there\u00c2\u0092s an herbal tea you can drink.",
+    "label": 1,
+    "speaker": "Dr. Long",
+    "dialogue_id": 101,
+    "utterance_id": 12
+  },
+  {
+    "text": "Okay.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 101,
+    "utterance_id": 13
+  },
+  {
+    "text": "I know!",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 102,
+    "utterance_id": 0
+  },
+  {
+    "text": "Yes! Wow, well, that-that was easy. Okay, you-you go.",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 102,
+    "utterance_id": 1
+  },
+  {
+    "text": "Okay.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 102,
+    "utterance_id": 2
+  },
+  {
+    "text": "Okay.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 102,
+    "utterance_id": 3
+  },
+  {
+    "text": "Okay, you know, you know when your in bed, with a woman.",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 102,
+    "utterance_id": 4
+  },
+  {
+    "text": "Hmph.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 102,
+    "utterance_id": 5
+  },
+  {
+    "text": "And, ah, you know, your fooling around with her.",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 102,
+    "utterance_id": 6
+  },
+  {
+    "text": "And you get all these like, mental images in your brain, you know, like Elle MacPherson, or that girl at the Xerox place....",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 102,
+    "utterance_id": 7
+  },
+  {
+    "text": "With the belly-button ring? Oh, muhawa!",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 102,
+    "utterance_id": 8
+  },
+  {
+    "text": "I know, And then all of the sudden your Mom pops into your head.",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 102,
+    "utterance_id": 9
+  },
+  {
+    "text": "And your like 'Mom, get outta here!'",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 102,
+    "utterance_id": 10
+  },
+  {
+    "text": "You know, but of course, like, after that you can't possibly think of anything else, and you can't, you know, stop what your doing.",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 102,
+    "utterance_id": 11
+  },
+  {
+    "text": "So it's kinda like, you're, you know.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 102,
+    "utterance_id": 12
+  },
+  {
+    "text": "You know.... You don't know!",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 102,
+    "utterance_id": 13
+  },
+  {
+    "text": "Your Mom, your telling me, your telling me, about your Mom, what is the matter with you?",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 102,
+    "utterance_id": 14
+  },
+  {
+    "text": "You said...",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 102,
+    "utterance_id": 15
+  },
+  {
+    "text": "I said '",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 102,
+    "utterance_id": 16
+  },
+  {
+    "text": "No, I\u00c2\u0092m sorry. It\u00c2\u0092s just my foot itches like crazy.",
+    "label": 1,
+    "speaker": "Cliff",
+    "dialogue_id": 103,
+    "utterance_id": 0
+  },
+  {
+    "text": "Oh, I\u00c2\u0092ll get it.",
+    "label": 1,
+    "speaker": "Phoebe",
+    "dialogue_id": 103,
+    "utterance_id": 1
+  },
+  {
+    "text": "Wow! I usually get to know a girl a little better before I let her spoon me.",
+    "label": 0,
+    "speaker": "Cliff",
+    "dialogue_id": 103,
+    "utterance_id": 2
+  },
+  {
+    "text": "Relax, it\u00c2\u0092s not like we\u00c2\u0092re forking.",
+    "label": 2,
+    "speaker": "Phoebe",
+    "dialogue_id": 103,
+    "utterance_id": 3
+  },
+  {
+    "text": "Oh good God! If you want a baby so bad just go steal it!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 104,
+    "utterance_id": 0
+  },
+  {
+    "text": "What is going on with you? Since when are you so crazy about babies?",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 104,
+    "utterance_id": 1
+  },
+  {
+    "text": "I\u00c2\u0092m not crazy about babies. I\u00c2\u0092m crazy about us.",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 104,
+    "utterance_id": 2
+  },
+  {
+    "text": "What?",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 104,
+    "utterance_id": 3
+  },
+  {
+    "text": "Look, we\u00c2\u0092ve always talked about having babies someday.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 104,
+    "utterance_id": 4
+  },
+  {
+    "text": "I\u00c2\u0092m not saying it has to be right now, but I\u00c2\u0092m starting to think that we can handle it.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 104,
+    "utterance_id": 5
+  },
+  {
+    "text": "We\u00c2\u0092re good.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 104,
+    "utterance_id": 6
+  },
+  {
+    "text": "We\u00c2\u0092re really good.",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 104,
+    "utterance_id": 7
+  },
+  {
+    "text": "Hey, what\u00c2\u0092s up?",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 105,
+    "utterance_id": 0
+  },
+  {
+    "text": "Nothing, Monica and I had a stupid fight.",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 105,
+    "utterance_id": 1
+  },
+  {
+    "text": "But you\u00c2\u0092re still moving in together, right? Because my ad came out today.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 105,
+    "utterance_id": 2
+  },
+  {
+    "text": "\"Wanted. Female roommate, non-smoker, non-ugly.\" Nice!",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 105,
+    "utterance_id": 3
+  },
+  {
+    "text": "Yeah?",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 105,
+    "utterance_id": 4
+  },
+  {
+    "text": "I just figured y\u00c2\u0092know, after living with you it\u00c2\u0092d be an interesting change of pace to have a female roommate, y\u00c2\u0092know?",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 105,
+    "utterance_id": 5
+  },
+  {
+    "text": "Someone I can learn from, someone-someone who\u00c2\u0092s different than me.",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 105,
+    "utterance_id": 6
+  },
+  {
+    "text": "And what\u00c2\u0092s more different than me. A guy who\u00c2\u0092s",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 105,
+    "utterance_id": 7
+  },
+  {
+    "text": "Julie.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 106,
+    "utterance_id": 0
+  },
+  {
+    "text": "What?!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 106,
+    "utterance_id": 1
+  },
+  {
+    "text": "Jody!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 106,
+    "utterance_id": 2
+  },
+  {
+    "text": "You were with Julie?",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 106,
+    "utterance_id": 3
+  },
+  {
+    "text": "Look, when it started I was just trying to be nice to her because she was my brother's girlfriend.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 106,
+    "utterance_id": 4
+  },
+  {
+    "text": "And then, one thing led to another and, before I knew it, we were...shopping.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 106,
+    "utterance_id": 5
+  },
+  {
+    "text": "Oh. Oh my God.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 106,
+    "utterance_id": 6
+  },
+  {
+    "text": "Honey, wait. We only did it once. It didn't mean anything to me.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 106,
+    "utterance_id": 7
+  },
+  {
+    "text": "Yeah, right.\u00c2\u00a0 Sure!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 106,
+    "utterance_id": 8
+  },
+  {
+    "text": "Really, Rachel, I was thinking of you the whole time.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 106,
+    "utterance_id": 9
+  },
+  {
+    "text": "Look, I'm sorry, all right.",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 106,
+    "utterance_id": 10
+  },
+  {
+    "text": "I never meant for you to find out!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 106,
+    "utterance_id": 11
+  },
+  {
+    "text": "Oh, please, you wanted to get caught.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 106,
+    "utterance_id": 12
+  },
+  {
+    "text": "That is not true!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 106,
+    "utterance_id": 13
+  },
+  {
+    "text": "Oh, so you just sort of happened to leave it in here?",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 106,
+    "utterance_id": 14
+  },
+  {
+    "text": "Did it ever occur to you that I might just be that stupid?",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 106,
+    "utterance_id": 15
+  },
+  {
+    "text": "Ok, Monica. I just have to know one thing. Did you go with her to",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 106,
+    "utterance_id": 16
+  },
+  {
+    "text": "Anytime you're ready.",
+    "label": 1,
+    "speaker": "Carol",
+    "dialogue_id": 107,
+    "utterance_id": 0
+  },
+  {
+    "text": "Ok, ok, here we go.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 107,
+    "utterance_id": 1
+  },
+  {
+    "text": "Ok, where am I talking to, here?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 107,
+    "utterance_id": 2
+  },
+  {
+    "text": "I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but...",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 107,
+    "utterance_id": 3
+  },
+  {
+    "text": "Just aim for the bump.",
+    "label": 1,
+    "speaker": "Carol",
+    "dialogue_id": 107,
+    "utterance_id": 4
+  },
+  {
+    "text": "Ok, ok, ok, ok, here goes.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 107,
+    "utterance_id": 5
+  },
+  {
+    "text": "You know, I, you know, can't do this.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 107,
+    "utterance_id": 6
+  },
+  {
+    "text": "Uh, this is too weird.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 107,
+    "utterance_id": 7
+  },
+  {
+    "text": "I feel stupid.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 107,
+    "utterance_id": 8
+  },
+  {
+    "text": "So don't do it, it's fine. You don't have to do it just because Susan does it.",
+    "label": 1,
+    "speaker": "Carol",
+    "dialogue_id": 107,
+    "utterance_id": 9
+  },
+  {
+    "text": "Hello, baby. Hello, hello.",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 107,
+    "utterance_id": 10
+  },
+  {
+    "text": "I can\u00c2\u0092t believe this! How long as this been going on?",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 108,
+    "utterance_id": 0
+  },
+  {
+    "text": "Well umm, Alexandra has been",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 108,
+    "utterance_id": 1
+  },
+  {
+    "text": "Oh, it has a name?",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 108,
+    "utterance_id": 2
+  },
+  {
+    "text": "Phoebe, don\u00c2\u0092t get upset!",
+    "label": 0,
+    "speaker": "Monica",
+    "dialogue_id": 108,
+    "utterance_id": 3
+  },
+  {
+    "text": "Okay\u00c2\u0097Oop! Too late! I\u00c2\u0092m leaving! Come on Chandler let\u00c2\u0092s go!",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 108,
+    "utterance_id": 4
+  },
+  {
+    "text": "Well, Phoebe I thought I\u00c2\u0092d\u00c2\u0097\u00c2\u0097Yeah, what the hell.",
+    "label": 1,
+    "speaker": "Chandler",
+    "dialogue_id": 108,
+    "utterance_id": 5
+  },
+  {
+    "text": "It\u00c2\u0092s clearly an Emma.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 109,
+    "utterance_id": 0
+  },
+  {
+    "text": "Oh honey, but you love that name.",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 109,
+    "utterance_id": 1
+  },
+  {
+    "text": "Yeah, but I love you more.",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 109,
+    "utterance_id": 2
+  },
+  {
+    "text": "Besides y\u00c2\u0092know, nothing goes with Bing.",
+    "label": 1,
+    "speaker": "Monica",
+    "dialogue_id": 109,
+    "utterance_id": 3
+  },
+  {
+    "text": "So I\u00c2\u0092m screwed.",
+    "label": 2,
+    "speaker": "Monica",
+    "dialogue_id": 109,
+    "utterance_id": 4
+  },
+  {
+    "text": "Yes? Yes?! How can I help you?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 110,
+    "utterance_id": 0
+  },
+  {
+    "text": "Yeah, we were\u00c2\u0085we were just looking around.",
+    "label": 1,
+    "speaker": "Guy",
+    "dialogue_id": 110,
+    "utterance_id": 1
+  },
+  {
+    "text": "Oh-oh, you\u00c2\u0092re-you\u00c2\u0092re fellow scholars.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 110,
+    "utterance_id": 2
+  },
+  {
+    "text": "What exactly were you looking for, hmm?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 110,
+    "utterance_id": 3
+  },
+  {
+    "text": "Perhaps,  perhaps Dr. Chester Stock\u00c2\u0092s musings on the Smiledon Californicus?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 110,
+    "utterance_id": 4
+  },
+  {
+    "text": "Uhh\u00c2\u0085.",
+    "label": 1,
+    "speaker": "Guy",
+    "dialogue_id": 110,
+    "utterance_id": 5
+  },
+  {
+    "text": "Ah\u00c2\u0085 Ah\u00c2\u0085Get out of here!  Uh, meeting someone? Or-or are you just here to brush up on Marion\u00c2\u0092s views on evolution?",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 110,
+    "utterance_id": 6
+  },
+  {
+    "text": "Uh, actually I find Marion\u00c2\u0092s views far too progressionist.",
+    "label": 1,
+    "speaker": "Woman",
+    "dialogue_id": 110,
+    "utterance_id": 7
+  },
+  {
+    "text": "I find Marion\u00c2\u0092s views far too progressionist.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 110,
+    "utterance_id": 8
+  },
+  {
+    "text": "I\u00c2\u0092m sorry, who are you?",
+    "label": 2,
+    "speaker": "Woman",
+    "dialogue_id": 110,
+    "utterance_id": 9
+  },
+  {
+    "text": "I\u00c2\u0092m a professor here uh, Ross\u00c2\u0085Geller.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 110,
+    "utterance_id": 10
+  },
+  {
+    "text": "Ross Geller, why do I know that name? It\u00c2\u0092s uh\u00c2\u0097Wait!  Did you write this?",
+    "label": 2,
+    "speaker": "Woman",
+    "dialogue_id": 110,
+    "utterance_id": 11
+  },
+  {
+    "text": "Yes! You\u00c2\u0092re the person who checked out my book?!",
+    "label": 2,
+    "speaker": "Ross",
+    "dialogue_id": 110,
+    "utterance_id": 12
+  },
+  {
+    "text": "Y\u00c2\u0092know, you look nothing like I would\u00c2\u0092ve thought. You\u00c2\u0092re\u00c2\u0085you\u00c2\u0092re so young.",
+    "label": 2,
+    "speaker": "Woman",
+    "dialogue_id": 110,
+    "utterance_id": 13
+  },
+  {
+    "text": "Well I uh, I skipped forth grade.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 110,
+    "utterance_id": 14
+  },
+  {
+    "text": "Okay. You ready to push again?",
+    "label": 1,
+    "speaker": "Dr. Harad",
+    "dialogue_id": 111,
+    "utterance_id": 0
+  },
+  {
+    "text": "I already had a baby. Leave me alone.",
+    "label": 0,
+    "speaker": "Phoebe",
+    "dialogue_id": 111,
+    "utterance_id": 1
+  },
+  {
+    "text": "Okay, okay, come on, you can do it. You can do it!",
+    "label": 2,
+    "speaker": "Frank",
+    "dialogue_id": 111,
+    "utterance_id": 2
+  },
+  {
+    "text": "Yeah!!",
+    "label": 2,
+    "speaker": "Frank",
+    "dialogue_id": 111,
+    "utterance_id": 3
+  },
+  {
+    "text": "Little Leslie is here!",
+    "label": 2,
+    "speaker": "Frank",
+    "dialogue_id": 111,
+    "utterance_id": 4
+  },
+  {
+    "text": "We got another one!",
+    "label": 2,
+    "speaker": "Frank",
+    "dialogue_id": 111,
+    "utterance_id": 5
+  },
+  {
+    "text": "Oh my God, I can't believe I have two-two children.",
+    "label": 2,
+    "speaker": "Frank",
+    "dialogue_id": 111,
+    "utterance_id": 6
+  },
+  {
+    "text": "How scary is that?",
+    "label": 2,
+    "speaker": "Frank",
+    "dialogue_id": 111,
+    "utterance_id": 7
+  },
+  {
+    "text": "Come on little Chandler, it's time to be born. Come on little Chandler! Come on!",
+    "label": 2,
+    "speaker": "Frank",
+    "dialogue_id": 111,
+    "utterance_id": 8
+  },
+  {
+    "text": "All right, he's coming. He's coming!",
+    "label": 2,
+    "speaker": "Dr. Harad",
+    "dialogue_id": 111,
+    "utterance_id": 9
+  },
+  {
+    "text": "Hey, where's his thing?",
+    "label": 0,
+    "speaker": "Frank",
+    "dialogue_id": 111,
+    "utterance_id": 10
+  },
+  {
+    "text": "Chandler's a girl!",
+    "label": 2,
+    "speaker": "Frank",
+    "dialogue_id": 111,
+    "utterance_id": 11
+  },
+  {
+    "text": "Oh God, kindergarten flashback.",
+    "label": 0,
+    "speaker": "Chandler",
+    "dialogue_id": 111,
+    "utterance_id": 12
+  },
+  {
+    "text": "They musta read the sonogram wrong.",
+    "label": 0,
+    "speaker": "Frank",
+    "dialogue_id": 111,
+    "utterance_id": 13
+  },
+  {
+    "text": "Cause they, 'cause they thought it was a boy, but Chandler's a girl!",
+    "label": 2,
+    "speaker": "Frank",
+    "dialogue_id": 111,
+    "utterance_id": 14
+  },
+  {
+    "text": "Chandler's a girl!",
+    "label": 2,
+    "speaker": "Frank",
+    "dialogue_id": 111,
+    "utterance_id": 15
+  },
+  {
+    "text": "Okay, keep saying it!",
+    "label": 2,
+    "speaker": "Chandler",
+    "dialogue_id": 111,
+    "utterance_id": 16
+  },
+  {
+    "text": "Am I too late?!",
+    "label": 1,
+    "speaker": "Alice",
+    "dialogue_id": 111,
+    "utterance_id": 17
+  },
+  {
+    "text": "No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes.",
+    "label": 2,
+    "speaker": "Frank",
+    "dialogue_id": 111,
+    "utterance_id": 18
+  },
+  {
+    "text": "We have our babies?",
+    "label": 2,
+    "speaker": "Alice",
+    "dialogue_id": 111,
+    "utterance_id": 19
+  },
+  {
+    "text": "Yeah.",
+    "label": 2,
+    "speaker": "Frank",
+    "dialogue_id": 111,
+    "utterance_id": 20
+  },
+  {
+    "text": "Oh, we have our babies.",
+    "label": 2,
+    "speaker": "Alice",
+    "dialogue_id": 111,
+    "utterance_id": 21
+  },
+  {
+    "text": "Hey Estelle, listen",
+    "label": 1,
+    "speaker": "Joey",
+    "dialogue_id": 112,
+    "utterance_id": 0
+  },
+  {
+    "text": "Well! Well! Well! Joey Tribbiani! So you came back huh? They",
+    "label": 2,
+    "speaker": "Estelle",
+    "dialogue_id": 112,
+    "utterance_id": 1
+  },
+  {
+    "text": "What are you talkin\u00c2\u0092 about? I never left you! You\u00c2\u0092ve always been my agent!",
+    "label": 0,
+    "speaker": "Joey",
+    "dialogue_id": 112,
+    "utterance_id": 2
+  },
+  {
+    "text": "Really?!",
+    "label": 2,
+    "speaker": "Estelle",
+    "dialogue_id": 112,
+    "utterance_id": 3
+  },
+  {
+    "text": "Yeah!",
+    "label": 2,
+    "speaker": "Joey",
+    "dialogue_id": 112,
+    "utterance_id": 4
+  },
+  {
+    "text": "Oh well, no harm, no foul.",
+    "label": 1,
+    "speaker": "Estelle",
+    "dialogue_id": 112,
+    "utterance_id": 5
+  },
+  {
+    "text": "Hi!",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 113,
+    "utterance_id": 0
+  },
+  {
+    "text": "Hi.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 113,
+    "utterance_id": 1
+  },
+  {
+    "text": "Hi.  Umm, I think there\u00c2\u0092s something that we really need to talk about.",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 113,
+    "utterance_id": 2
+  },
+  {
+    "text": "I think we do. Why don\u00c2\u0092t we go inside?  Look uh, I know why you\u00c2\u0092re here.",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 113,
+    "utterance_id": 3
+  },
+  {
+    "text": "You do?",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 113,
+    "utterance_id": 4
+  },
+  {
+    "text": "Yeah, and to save you from any embarrassment umm, I think maybe I should talk first.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 113,
+    "utterance_id": 5
+  },
+  {
+    "text": "Okay.",
+    "label": 1,
+    "speaker": "Rachel",
+    "dialogue_id": 113,
+    "utterance_id": 6
+  },
+  {
+    "text": "Okay.  Uh, Ross and Rachel. Rachel and Ross. That\u00c2\u0092s been one heck of a see-saw hasn\u00c2\u0092t it?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 113,
+    "utterance_id": 7
+  },
+  {
+    "text": "What?",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 113,
+    "utterance_id": 8
+  },
+  {
+    "text": "I mean look, that-that one night we had was fun and\u00c2\u0085and certainly passionate, but don\u00c2\u0092t you think it\u00c2\u0092s better if we just stayed friends?",
+    "label": 0,
+    "speaker": "Ross",
+    "dialogue_id": 113,
+    "utterance_id": 9
+  },
+  {
+    "text": "Seriously. What?!",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 113,
+    "utterance_id": 10
+  },
+  {
+    "text": "Okay.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 113,
+    "utterance_id": 11
+  },
+  {
+    "text": "Okay.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 113,
+    "utterance_id": 12
+  },
+  {
+    "text": "Y\u00c2\u0092know what?",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 113,
+    "utterance_id": 13
+  },
+  {
+    "text": "If you want to, we can do it one more time.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 113,
+    "utterance_id": 14
+  },
+  {
+    "text": "I mean I\u00c2\u0092d-I\u00c2\u0092d be okay with that.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 113,
+    "utterance_id": 15
+  },
+  {
+    "text": "In fact, I have some time right now.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 113,
+    "utterance_id": 16
+  },
+  {
+    "text": "Okay, y\u00c2\u0092know what? Can I, can I talk now?",
+    "label": 2,
+    "speaker": "Rachel",
+    "dialogue_id": 113,
+    "utterance_id": 17
+  },
+  {
+    "text": "Oh sure.",
+    "label": 1,
+    "speaker": "Ross",
+    "dialogue_id": 113,
+    "utterance_id": 18
+  },
+  {
+    "text": "I\u00c2\u0092m pregnant.  Ross?  Ross?  Okay, whenever you\u00c2\u0092re ready.  And you\u00c2\u0092re the father by the way\u00c2\u0097but you got that",
+    "label": 0,
+    "speaker": "Rachel",
+    "dialogue_id": 113,
+    "utterance_id": 19
+  }
+]

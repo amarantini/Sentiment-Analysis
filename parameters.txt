@@ -1,0 +1,142 @@
+average word2vec
+max_iter=10000, C = 450
+F1 score of class 0: 0.44227642276422763
+F1 score of class 1: 0.7236842105263158
+F1 score of class 2: 0.4289405684754522
+Average F1 score: 0.5316337339219985
+
+max_iter=10000, C = 500
+F1 score of class 0: 0.47094801223241584
+F1 score of class 1: 0.7164685908319185
+F1 score of class 2: 0.4455958549222798
+Average F1 score: 0.544337485995538
+
+max_iter=10000, C = 550
+F1 score of class 0: 0.4065573770491803
+F1 score of class 1: 0.7097844112769487
+F1 score of class 2: 0.4527363184079602
+Average F1 score: 0.5230260355780297
+
+C=600, gamma=0.01, kernel='rbf',degree=5
+F1 score of class 0: 0.42483660130718953
+F1 score of class 1: 0.711217183770883
+F1 score of class 2: 0.3667621776504298
+Average F1 score: 0.5009386542428341
+
+EMBEDDING_SIZE = 500, C=600
+F1 score of class 0: 0.5231175693527081
+F1 score of class 1: 0.6872509960159363
+F1 score of class 2: 0.4638949671772429
+Average F1 score: 0.5580878441819624
+
+EMBEDDING_SIZE = 500, C=700
+F1 score of class 0: 0.49076517150395776
+F1 score of class 1: 0.6726546906187625
+F1 score of class 2: 0.4323144104803493
+Average F1 score: 0.5319114242010232
+
+
+
+
+TFIDF weighted Word2Vec
+EMBEDDING_SIZE = 100
+max_iter=10000, C = 500
+F1 score of class 0: 0.35549525101763907
+F1 score of class 1: 0.5166374781085814
+F1 score of class 2: 0.21238938053097348
+Average F1 score: 0.36150736988573134
+
+max_iter=10000, C = 500, gamma=0.1, degree=5
+F1 score of class 0: 0.4626006904487917
+F1 score of class 1: 0.5073684210526316
+F1 score of class 2: 0.2506265664160401
+Average F1 score: 0.4068652259724878
+
+max_iter=10000, C = 500, gamma=0.1, degree=5
+F1 score of class 0: 0.44178454842219805
+F1 score of class 1: 0.48000000000000004
+F1 score of class 2: 0.21390374331550802
+Average F1 score: 0.37856276391256866
+
+max_iter=10000, C = 500, gamma=0.1, degree=4
+F1 score of class 0: 0.4229299363057325
+F1 score of class 1: 0.5574354407836154
+F1 score of class 2: 0.23225806451612904
+Average F1 score: 0.4042078138684923
+
+
+
+
+doc2vec
+kernel='rbf',max_iter=10000, C = 500, gamma=0.1, degree=3
+F1 score of class 0: 0.5134818288393903
+F1 score of class 1: 0.5334796926454446
+F1 score of class 2: 0.33480176211453744
+Average F1 score: 0.4605877611997908
+
+kernel='rbf',max_iter=10000, C = 500, gamma=0.01, degree=3
+F1 score of class 0: 0.47568988173455984
+F1 score of class 1: 0.5844027640671274
+F1 score of class 2: 0.34234234234234234
+Average F1 score: 0.4674783293813432
+
+EMBEDDING_SIZE = 70
+kernel='rbf',max_iter=20000, C = 600, gamma=0.01, degree=3
+F1 score of class 0: 0.4794701986754967
+F1 score of class 1: 0.6035856573705178
+F1 score of class 2: 0.383442265795207
+Average F1 score: 0.4888327072804071
+
+EMBEDDING_SIZE = 70
+kernel='rbf',max_iter=20000, C = 700, gamma=0.01, degree=3
+F1 score of class 0: 0.4789473684210526
+F1 score of class 1: 0.5942744323790722
+F1 score of class 2: 0.36853932584269666
+Average F1 score: 0.4805870422142739
+
+EMBEDDING_SIZE = 60
+kernel='rbf',max_iter=20000, C = 600, gamma=0.01, degree=3
+
+
+
+nn
+
+INPUT_DIM = len(word_to_ix)
+    HIDDEN_DIM = 256
+    OUTPUT_DIM = 3
+    N_LAYERS = 2
+    BIDIRECTIONAL = True
+    DROPOUT = 0.5
+    batch_size = 8
+F1 score of class 0: 0.6124721603563476
+F1 score of class 1: 0.6852846401718582
+F1 score of class 2: 0.45244215938303345
+Average F1 score: 0.5833996533037463
+
+
+
+
+
+INPUT_DIM = len(word_to_ix)
+    HIDDEN_DIM = 256
+    OUTPUT_DIM = 3
+    N_LAYERS = 2
+    BIDIRECTIONAL = True
+    DROPOUT = 0.5
+    batch_size = 16
+    epochs = 5
+    hidden = self.linear(hidden)
+        hidden = self.relu(hidden)
+average F1 score: 0.5857702041431417
+
+
+batch_size = 32
+    epochs = 5
+hidden = self.linear_1(hidden)
+        hidden = self.relu(hidden)
+        hidden = self.linear_2(hidden)
+        hidden = self.relu(hidden)
+F1 score of class 0: 0.5642317380352645
+F1 score of class 1: 0.6958333333333333
+F1 score of class 2: 0.46551724137931033
+Average F1 score: 0.5751941042493026
