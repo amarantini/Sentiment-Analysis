@@ -113,7 +113,7 @@ def run_train_test(training_data, testing_data):
                     dropout=DROPOUT)
     loss_function = nn.CrossEntropyLoss()#NLLLoss()
     optimizer = optim.Adam(lstm_model.parameters(), lr=0.001) #optim.Adam(model.parameters())
-    lstm_model = lstm_model.to(device)
+
 
     lstm_model.embedding.weight.data.copy_(torch.tensor(w2v_embed))
     #lstm_model.embedding.weight.data[UNK_IDX] = torch.zeros(EMBEDDING_SIZE)

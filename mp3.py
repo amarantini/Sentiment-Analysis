@@ -5,7 +5,7 @@ import string
 import nltk
 import tqdm
 import re
-from gensim.models import Word2Vec
+#from gensim.models import Word2Vec
 from numpy import dot
 from numpy.linalg import norm
 
@@ -55,16 +55,20 @@ def run_train_test(training_data, testing_data):
 
     train_labels = [data["label"] for data in training_data]
     
-    tokenizer = BertTokenizer.from_pretrained('distilbert-base-uncased')
-    #tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-    model = DistilBertForSequenceClassification.from_pretrained("distilbert-base-uncased",num_labels=3)
-    #model = BertForSequenceClassification.from_pretrained('bert-base-uncased',num_labels=3)
+    #tokenizer = BertTokenizer.from_pretrained('distilbert-base-uncased')
+    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+    #model = DistilBertForSequenceClassification.from_pretrained("distilbert-base-uncased",num_labels=3)
+    model = BertForSequenceClassification.from_pretrained('bert-base-uncased',num_labels=3)
+    # valid_sents = train_sents[:1000]
+    # train_sents = train_sents[1000:]
+    # valid_labels = train_labels[:1000]
+    # train_labels = train_labels[1000:]
     train_encodings = tokenizer(
         train_sents, truncation=True, padding=True, max_length=MAX_LEN)
-    #test_encodings = tokenizer(test_texts, truncation=True, padding=True, max_length=MAX_LEN)
+    #valid_encodings = tokenizer(valid_sents, truncation=True, padding=True, max_length=MAX_LEN)
 
     train_dataset = TextDataset(train_encodings, train_labels)
-    #test_dataset = TextDataset(valid_encodings, valid_labels)
+    #valid_dataset = TextDataset(valid_encodings, valid_labels)
 
     # training_args = TrainingArguments(
     #                     output_dir='./results',          # output directory
@@ -89,7 +93,7 @@ def run_train_test(training_data, testing_data):
     #             )
     #trainer.train()
     epochs = 2
-    batch_size = 32
+    batch_size = 16
 
 
     # # classify train_texts and balance train_texts
@@ -101,7 +105,8 @@ def run_train_test(training_data, testing_data):
     train_loader = Data.DataLoader(train_dataset, batch_size=batch_size, sampler=sampler)
 
     optimizer = optim.Adam(model.parameters(), lr=5e-5)
-    
+    model.to(device)
+
     for epoch in range(epochs):
         counter = 0
         epoch_loss = 0.0
@@ -139,12 +144,13 @@ def run_train_test(training_data, testing_data):
         for sent in test_sents:
             #label = torch.argmax(lstm_model(sent.view(1, -1)), dim=1)
             inputs = tokenizer(sent, padding=True, truncation=True, max_length=MAX_LEN, return_tensors="pt")
+            inputs = inputs.to(device)
             # perform inference to our model
             outputs = model(inputs["input_ids"], inputs["attention_mask"])  
             # get output probabilities by doing softmax
             probs = outputs[0].softmax(1)
             # executing argmax function to get the candidate label
-            result.append(probs.argmax())
+            result.append(probs.cpu().argmax())
     return result
 
 
