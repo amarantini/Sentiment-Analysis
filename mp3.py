@@ -18,7 +18,8 @@ import torch.utils.data as Data
 from sklearn.metrics import accuracy_score
 from transformers import BertTokenizer, BertForSequenceClassification, DistilBertTokenizerFast, DistilBertForSequenceClassification
 from transformers import Trainer, TrainingArguments
-import torch
+from transformers import AdamW, get_linear_schedule_with_warmup
+
 
 
 def run_train_test(training_data, testing_data):
@@ -93,7 +94,7 @@ def run_train_test(training_data, testing_data):
     #             )
     #trainer.train()
     epochs = 2
-    batch_size = 16
+    batch_size = 32
 
 
     # # classify train_texts and balance train_texts
@@ -104,8 +105,15 @@ def run_train_test(training_data, testing_data):
     sampler = Data.WeightedRandomSampler(samples_weight, len(samples_weight))
     train_loader = Data.DataLoader(train_dataset, batch_size=batch_size, sampler=sampler)
 
-    optimizer = optim.Adam(model.parameters(), lr=5e-5)
+    optimizer = AdamW(model.parameters(), lr=5e-5, eps=1e-8)#optim.Adam(model.parameters(), lr=5e-5)
     model.to(device)
+    # Total number of training steps
+    total_steps = len(train_loader) * epochs
+
+    # Set up the learning rate scheduler
+    scheduler = get_linear_schedule_with_warmup(optimizer,
+                                                num_warmup_steps=0, # Default value
+                                                num_training_steps=total_steps)
 
     for epoch in range(epochs):
         counter = 0
@@ -121,6 +129,7 @@ def run_train_test(training_data, testing_data):
             loss = predictions[0]
             loss.backward()
             optimizer.step()
+            scheduler.step()
 
             acc = accuracy(predictions[1], labels)
             epoch_loss += loss.item()
