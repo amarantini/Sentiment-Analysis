@@ -140,3 +140,21 @@ F1 score of class 0: 0.5642317380352645
 F1 score of class 1: 0.6958333333333333
 F1 score of class 2: 0.46551724137931033
 Average F1 score: 0.5751941042493026
+
+
+bert
+epochs = 2
+batch_size = 32
+average F1 score: 0.656899355084963
+
+epochs = 3
+batch_size = 32
+7317 epoch_acc_sum: 8874.0
+F1 score of class 0: 0.5691056910569106
+F1 score of class 1: 0.7290448343079923
+F1 score of class 2: 0.5110132158590308
+Average F1 score: 0.6030545804079779
+
+
+max_len
+average F1 score: 0.6574443636127713

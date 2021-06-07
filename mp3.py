@@ -53,13 +53,25 @@ def run_train_test(training_data, testing_data):
 
     train_texts,train_sents = clean_data(training_data)
     test_texts,test_sents = clean_data(testing_data)
-
+    
+    max_len = 0
+    for texts in train_texts:
+        if len(texts) > max_len:
+            max_len = len(texts)
+            print(texts)
+            print(max_len)
+    for texts in test_texts:
+        if len(texts) > max_len:
+            max_len = len(texts)
+            print(texts)
+            print(max_len)
+    MAX_LEN=max(MAX_LEN,max_len)
     train_labels = [data["label"] for data in training_data]
     
-    #tokenizer = BertTokenizer.from_pretrained('distilbert-base-uncased')
-    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-    #model = DistilBertForSequenceClassification.from_pretrained("distilbert-base-uncased",num_labels=3)
-    model = BertForSequenceClassification.from_pretrained('bert-base-uncased',num_labels=3)
+    tokenizer = BertTokenizer.from_pretrained('distilbert-base-uncased')
+    #tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+    model = DistilBertForSequenceClassification.from_pretrained("distilbert-base-uncased",num_labels=3)
+    #model = BertForSequenceClassification.from_pretrained('bert-base-uncased',num_labels=3)
     # valid_sents = train_sents[:1000]
     # train_sents = train_sents[1000:]
     # valid_labels = train_labels[:1000]

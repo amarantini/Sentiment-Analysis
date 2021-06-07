@@ -171,7 +171,7 @@ def run_train_test(training_data, testing_data):
 class LSTM(nn.Module):
 
     def __init__(self, embedding_dim, hidden_dim, vocab_size, output_dim,n_layers,bidirectional, dropout, pad_idx=0):
-        super().__init__() #LSTM, BiRNN, self
+        super().__init__() 
 
         self.embedding = nn.Embedding(vocab_size, embedding_dim, padding_idx=pad_idx)
         self.lstm = nn.LSTM(input_size=embedding_dim, 
@@ -182,7 +182,7 @@ class LSTM(nn.Module):
         self.linear_1 = nn.Linear(hidden_dim*4, hidden_dim*2)
         self.relu = nn.ReLU()
         self.linear_2 = nn.Linear(hidden_dim*2, hidden_dim*1)
-        self.predictor = nn.Linear(hidden_dim*1, output_dim) #hidden_dim*4, output_dim
+        self.predictor = nn.Linear(hidden_dim*1, output_dim) 
         self.dropout = nn.Dropout(dropout)
 
 
